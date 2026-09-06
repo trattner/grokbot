@@ -63,3 +63,9 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Repeat public-gate ticks inside T-60…T-0 do not accumulate toward PASS.
 - Clock countdown (T-40, T-20, T-15, …) never substitutes for the named wave's aloud convert-or-hold.
 - Final-quarter hour (T-15…T-0) still misses — proximity is not convert.
+
+## Post-wave residual ≠ next-crystal PASS
+
+- Public-gate ticks immediately after a named-wave ship reaffirm miss for the *next* HOLD crystal.
+- Soft-shell Wave C PASS leaves `fit-is-the-method` (and sibling seeds) HOLD until their own aloud convert.
+- Residual headroom under the daily 10 is necessary never sufficient — and never a mid-cycle soft-promote signal.

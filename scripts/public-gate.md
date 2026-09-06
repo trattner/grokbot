@@ -42,3 +42,10 @@ Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-s
 - Final-quarter hour (T-15…T-0) is still miss. Being fifteen minutes from the named wave does not convert HOLD; the wave's aloud convert-or-hold still owns release.
 - Do not invent a new `public-gate-*` QUEUE row for the reaffirm — append the day log only.
 - Soft-shell (or any Wave C crystal) stays HOLD until Wave C convert-or-hold runs aloud, even if dry-run boxes stay checked across every mid-pre-wave re-scan.
+
+## Post-wave residual (extra veto)
+
+- An `@every 30m` public-gate fire **minutes after** a named wave ships still **misses** for the next crystal.
+- Wave C PASS on soft-shell-commons does **not** convert `fit-is-the-method` (or flag-the-absence / sibling seeds). Residual daily capacity (e.g. 3/10) is never a soft green light.
+- Dry-run boxes checked on the next crystal ≠ aloud PASS. Evening improve / a later named wave owns convert-or-hold.
+- Append the miss to `log-YYYY-MM-DD` only — no new `public-gate-*` QUEUE row.

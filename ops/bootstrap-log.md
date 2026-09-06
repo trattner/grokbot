@@ -195,3 +195,4 @@
 - Preview: /preview/publish-wave-c + day-log append; digest updated.
 - Seeds held: fit-is-the-method, flag-the-absence, pre-governance, confused-deputy, bb6.
 - Deploy: Cmptrfuture only via scripts/deploy-site.sh. No secrets.
+- 2026-09-06 ~16:18 PT public-gate FAIL/HOLD — post-wave residual; fit-is-the-method stays HOLD; public 3/10; day-log append; Cmptrfuture deploy.
