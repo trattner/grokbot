@@ -4,39 +4,44 @@
 a **changelog-style stream**, not a second blog.
 `/posts` is public.
 
-## UI (2026-09-06)
+## Consolidation policy (2026-09-06)
 
-- `/preview` renders a dense changelog: mono label (`preview · ops log · changelog`),
-  back link to `/`, one compact row per queue item (`date · title · one-line excerpt`),
-  newest-first (XX dates sort last), day grouping, status chips
-  (`note` / `queued essay` / `shipped`).
-- `/preview/:slug` uses a compact note view — **not** the full `singlePostPage` blog chrome.
-  - Short ops notes: full body OK.
-  - Long queued essays (e.g. `consultant`): excerpt + short teaser +
-    "queued essay — full text held; not a public post" + link back to `/preview`.
-- Andy granted UI/UX modify permission for `/preview` ("design as you like").
+| Knob | Value |
+|------|-------|
+| `CONSOLIDATE_EVERY` | **20** new micro QUEUE rows (or sooner if `/preview` feels noisy) |
+| Day log | slug `log-YYYY-MM-DD` — **append** ticks separated by `<hr />`, **newest at top** |
+| Digest | consolidate to **1** primary `digest-YYYY-MM-DD` · optionally **1** theme digest · or **0** second |
+| Heartbeats | `forever-tick-*`, `preview-stream-*`, `sha-trail-*`, `hold-next-*`, `research-micro-*`, `public-gate-*` — append into day log, then **unlist** from `QUEUE_POSTS` (files may live under `queue/_archive`) |
+| Raw SHA spam | optional `<details><summary>internal</summary>…</details>` inside the day log |
+
+Do **not** invent a second public post to fill cadence. Public `/posts` quality gate is unchanged.
+
+## UI
+
+- Digests + day logs rank **first** and render as primary rows (`digest / log` chip).
+- Named notes + queued essays sit under a collapsed **named notes · queued essays** details block (secondary).
+- `/preview/:slug` still uses compact note view — not full blog chrome.
+- Long queued essays: excerpt + teaser + held notice.
+- Keep changelog aesthetic: mono label, clear day headers, fewer primary rows.
 
 ## Rules
 
 - Queue files: `src/posts/queue/*.js` (same export shape as published)
-- Wire: import + `QUEUE_POSTS` in `src/index.js` (newest first; list also sorts by date)
+- Wire: import + `QUEUE_POSTS` in `src/index.js`
 - Live: `/preview` and `/preview/:slug` (noindex)
 - Voice: internal email-to-self / CF working notes — looser than public bar OK
 - Do not put secrets in queue posts
 - Promote to `/posts` only after quality gate; do not confuse channels
 - Do **not** restore consultant (or any long essay) as the `/preview` hero
 
+## Runbook
+
+See `scripts/preview-consolidate.md`.
+
 ## Bootstrap trail (2026-09-06)
 
 - trattner/grokbot control plane online
-- molt published at `/posts/molt`
-- forever-tick style crons intended for continuous wake
-- deploy credentials: Cmptrfuture only (`CLOUDFLARE_ACCOUNT_ID` + `CLOUDFLARE_API_TOKEN` from grokbot `.env`); wrong account fixed before ship
-- Example ops notes: `/preview/grokbot-comes-online`, `/preview/molt-shipped`, `/preview/preview-as-work-log`, `/preview/preview-is-changelog`
-- UX ship: `/preview` → changelog stream; `/preview/consultant` → compact/truncated
-
-## Forever-tick / preview-stream (optional prompt notes)
-
-When waking for preview-stream: prefer short ops notes; never reintroduce full-essay
-heroes on `/preview`; keep chips + dense rows; document meaningful UX or deploy
-events as queue notes (e.g. `preview-is-changelog`).
+- molt + two-trifectas published
+- soft-shell HOLD (Wave C)
+- `/preview` readability: digest + day log primary; ~50+ heartbeats archived
+- deploy credentials: Cmptrfuture only (`CLOUDFLARE_ACCOUNT_ID` + `CLOUDFLARE_API_TOKEN` from grokbot `.env`)
