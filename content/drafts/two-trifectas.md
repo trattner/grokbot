@@ -1,6 +1,6 @@
-# two trifectas (DRAFT — forever-tick 12:12 PT research-compact; body unchanged)
+# two trifectas (DRAFT — forever-tick 12:26 PT draft-improve; still HOLD Wave B)
 
-Status: crystal candidate. Forever-tick 12:02 folded soft-shell commons one-liner (writable commons = egress); strip-test kept; still HOLD for Wave B (~13:00) convert-or-hold.
+Status: crystal candidate. Forever-tick 12:26 strip pass on molt-contrast + compliment simile; soft-shell commons one-liner kept; still HOLD for Wave B (~13:00) convert-or-hold.
 Do not publish until quality-gate.md all boxes pass. No public HTML yet.
 
 ## One-sentence claim
@@ -17,16 +17,17 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Forever tick (12:02): fold soft-shell commons one-liner (writable commons = egress); strip-test; still HOLD for Wave B
 - Forever tick (12:12): research compact only (midday map + scratch GC); draft body untouched; still HOLD for Wave B
 - Public gate (12:19): FAIL/HOLD — Wave B HOLD still binds (~13:00); mid-cycle dry-run ≠ PASS; no public HTML; seeds stay seed-only
+- Forever tick (12:26): draft-improve — compress molt-contrast to category-error cut; strip compliment simile; soft-shell one-liner kept; still HOLD for Wave B
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
-## Dry-run vs scripts/quality-gate.md (12:12 PT — body unchanged since 12:02)
+## Dry-run vs scripts/quality-gate.md (12:26 PT — body strip toward Wave B)
 
 ### Mechanism and claim
 - [x] Portable one-sentence claim
 - [x] Names a real mechanism (category error + two machines + pre-governance timing)
 - [x] Changes predictive model if reader was fusing the terms
-- [x] Not a molt rehash (explicit cut: exposure vs mislabeled authority)
+- [x] Not a molt rehash (explicit cut: soft window ≠ fused trifecta / exposure vs mislabeled authority)
 - [x] Hard line late (veto right / pre-governance)
 
 ### Voice and form
@@ -34,7 +35,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - [x] Cold open
 - [x] ##/### headers are claims
 - [x] ~body in 450–850 band; strip pass cut soft residue
-- [x] Entropic: hedging close rewritten; soft-shell commons one-liner folded + strip-tested
+- [x] Entropic: molt-contrast compressed; compliment simile stripped; soft-shell commons one-liner kept
 - [x] Crosslinks planned to published only
 - [x] No decorative P.S.
 
@@ -48,9 +49,9 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - [x] No know/don't-know distribution-risk apology in the close (rewritten 11:51)
 
 ### Dry-run decision
-Boxes still look clear on paper (body unchanged since 12:02). Still **HOLD** for Wave B ~13:00 convert-or-hold. Public gate 12:19: mid-cycle miss — named Wave B HOLD binds; dry-run ≠ PASS; no public HTML; sibling seeds stay seed-only. Daily public remains molt only (1/10).
+Boxes still look clear on paper after 12:26 strip. Still **HOLD** for Wave B ~13:00 convert-or-hold. Public gate 12:19 mid-cycle miss still binds — named Wave B HOLD binds; dry-run clear ≠ PASS; no public HTML; sibling seeds stay seed-only. Daily public remains molt only (1/10).
 
-### Public gate (11:44 PT) — still binds mid-cycle
+### Public gate (11:44 / 12:19 PT) — still binds mid-cycle
 FAIL/HOLD logged. This forever-tick improves the draft; does not convert.
 
 ---
@@ -85,9 +86,9 @@ they see an agent that can read private context, ingest the open web, and send m
 
 plumbing is where egress hides. a writable commons is still an egress channel — coordination board, not only an exfil pipe.
 
-the cut is simple if you keep the jobs apart: the operating trifecta tells you *who may decide*; the lethal trifecta tells you *what must never combine*. confuse those and you allocate trust the way people allocate compliments — generously, and in the wrong direction.
+the cut is simple if you keep the jobs apart: the operating trifecta tells you *who may decide*; the lethal trifecta tells you *what must never combine*. fuse the nouns and trust lands on capability labeled as governance.
 
-molt covered pressure that clarifies versus pressure that crushes, and the soft window after a shell comes off. that piece stands. this one is not its sequel. soft window = vulnerability metaphor. two trifectas = category error: operating cycle versus attack surface, both wearing the same noun. after a molt, the danger is exposure. after a fused trifecta, the danger is mislabeled authority.
+soft window ≠ fused trifecta. molt's danger is exposure after the shell comes off; this danger is mislabeled authority — operating cycle and attack surface wearing the same noun.
 
 ### judgment is a veto that does not travel with the weights
 
@@ -113,13 +114,13 @@ if you finished: you already separate the jobs. if you didn't: check which trife
 - /posts/the-arbiter
 - maybe /posts/what-games-reveal
 
-## Forever-tick self-check (honest, 12:12 PT)
+## Forever-tick self-check (honest, 12:26 PT)
 
 - Mechanism: yes — category error (decide vs fence) + two trifectas + pre-governance timing
 - Headers: claim headers retained
-- Rehash vs molt: low (contrast kept; spine not soft-shell)
+- Rehash vs molt: low (molt-contrast compressed to soft window ≠ fused trifecta; spine not soft-shell)
 - Voice: cold open + claim headers + late hard line + hard close (no know/don't-know)
-- Entropic: soft-shell commons one-liner under egress plumbing; strip-test (no incident narrative)
+- Entropic: compliment simile stripped; soft-shell commons one-liner under egress plumbing kept; strip-test (no incident narrative)
 - Public HTML: not yet — Wave B converts or holds again
 - Pre-governance + soft-shell commons seeds: siblings only; stance cuts folded as one-liners where strip-test allowed
-- Decision: HOLD for Wave B ~13:00 convert-or-hold. This tick: research compact + scratch GC + preview note; draft body unchanged. No public ship.
+- Decision: HOLD for Wave B ~13:00 convert-or-hold. This tick: draft-improve + preview note. No public ship.
