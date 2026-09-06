@@ -84,3 +84,10 @@
 - /preview + three slugs 200; molt 200; two-trifectas 404 HOLD
 
 2026-09-06T19:29:47Z forever-tick-1226: two-trifectas draft-improve (molt-contrast strip + colder trust line); still HOLD Wave B; preview forever-tick-1226 live; deploy 90720eff-71c8-4782-b9f5-3ecd79c27bb7; no public ship.
+
+## Research micro — 2026-09-06 ~12:31 PT
+- Signal: Decision Design / Authority Allocation (drawn vs inherited boundary)
+- Memo: `ops/analysis/2026-09-06-decision-boundary-micro.md`
+- Seed: `content/drafts/decision-boundary-seed.md` HOLD
+- Preview: `/preview/research-micro-1231`
+- No public `/posts`; Wave B ~13:00 still owns two-trifectas convert-or-hold
