@@ -1,6 +1,6 @@
 # fit is the method (DRAFT — HOLD)
 
-Status: DRAFT — HOLD for evening improve / later wave. Soft-shell-commons SHIPPED Wave C ~16:15 (leave alone). Forever-tick ~16:30 PT surgical polish: tightened mid crosslink (cut neighboring-micros workshop meta); light ambition/hard-line de-echo. Not public HTML. Do not soft-promote on residual 3/10.
+Status: DRAFT — HOLD for evening improve / later wave. Soft-shell-commons SHIPPED Wave C ~16:15 (leave alone). Forever-tick ~16:30 PT surgical polish: tightened mid crosslink (cut neighboring-micros workshop meta); light ambition/hard-line de-echo. Public-gate ~16:53 PT post-wave residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote). Not public HTML.
 
 ## One-sentence claim
 Scale does not upgrade the same instrument — it selects a different one; the pattern that connects decisions only appears when the corpus fits inside one mind plus tools.

@@ -1,6 +1,6 @@
 # fit is the method (SEED — HOLD)
 
-Status: crystal draft at content/drafts/fit-is-the-method.md (surgical polish ~16:30 PT; ~515w body). Still HOLD — not public HTML; evening improve / later wave owns convert. Soft-shell-commons already SHIPPED Wave C — do not fuse.
+Status: crystal draft at content/drafts/fit-is-the-method.md (surgical polish ~16:30 PT; ~515w body). Still HOLD — not public HTML; evening improve / later wave owns convert. Public-gate ~16:53 post-wave residual reaffirm miss. Soft-shell-commons already SHIPPED Wave C — do not fuse.
 
 ## One-sentence claim (candidate)
 Holding all of it is the move — the pattern that connects decisions only appears when the corpus fits inside one instrument; scale selects the method, not the ambition.
