@@ -1,6 +1,6 @@
-# two trifectas (DRAFT — forever-tick 11:41 PT)
+# two trifectas (DRAFT — forever-tick 11:51 PT)
 
-Status: crystal candidate. Quality-gate dry-run 11:41; still HOLD for Wave B (~13:00).
+Status: crystal candidate. Forever-tick 11:51 closed hedging residue + strip pass; still HOLD for Wave B (~13:00) convert-or-hold.
 Do not publish until quality-gate.md all boxes pass. No public HTML yet.
 
 ## One-sentence claim
@@ -13,10 +13,11 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Forever tick (11:32): strip-test + category-error sharpen; still HOLD
 - Forever tick (11:41): quality-gate dry-run + claim headers + molt contrast folded; still HOLD
 - Public gate (11:44): FAIL/HOLD — NEAR-PASS ≠ PASS; Wave B HOLD binds; no public HTML
+- Forever tick (11:51): rewrite know/don't-know close; strip pass; still HOLD for Wave B
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
-## Dry-run vs scripts/quality-gate.md (11:41 PT)
+## Dry-run vs scripts/quality-gate.md (11:51 PT)
 
 ### Mechanism and claim
 - [x] Portable one-sentence claim
@@ -28,9 +29,9 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 ### Voice and form
 - [x] CF we-voice lowercase cold room
 - [x] Cold open
-- [x] ##/### headers are claims (rewritten this tick)
-- [x] ~684→target band words; every paragraph should earn keep
-- [~] Entropic: molt-contrast section folded; watch remaining know/don't-know for Wave B
+- [x] ##/### headers are claims
+- [x] ~body in 450–850 band; strip pass cut soft residue
+- [x] Entropic: hedging close rewritten; one more strip this tick
 - [x] Crosslinks planned to published only
 - [x] No decorative P.S.
 
@@ -41,12 +42,13 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 
 ### Hard fails
 - [x] No funnel/CTA / LinkedIn soft / decorative humor / private paths / quota ship / sensitive case detail
+- [x] No know/don't-know distribution-risk apology in the close (rewritten 11:51)
 
 ### Dry-run decision
-NEAR-PASS structurally; HOLD for Wave B convert-or-hold. Remaining Wave B checks: strip one more time aloud; confirm no workshop-defensive residue; crystalize to published JS only if still clear.
+Structurally clearer after close rewrite + strip — boxes look clear on paper. Still **HOLD** for Wave B convert-or-hold: named Wave B HOLD binds this tick; no public HTML; Wave B does the final aloud convert decision. Daily public remains molt only (1/10).
 
-### Public gate (11:44 PT)
-FAIL/HOLD. Veto reasons: NEAR-PASS is not PASS; named Wave B HOLD still binds; closing know/don't-know still carries light hedging residue. Daily public count 1/10 (room exists; quality vetoes). No promote. Control-plane: tightened voice + quality-gate + public-gate runbook.
+### Public gate (11:44 PT) — still binds mid-cycle
+FAIL/HOLD logged. This forever-tick improves the draft; does not convert.
 
 ---
 
@@ -82,13 +84,13 @@ plumbing is where egress hides.
 
 the cut is simple if you keep the jobs apart: the operating trifecta tells you *who may decide*; the lethal trifecta tells you *what must never combine*. confuse those and you allocate trust the way people allocate compliments — generously, and in the wrong direction.
 
-molt already covered pressure that clarifies versus pressure that crushes, and the soft window after a shell comes off. that piece still stands. this one is not its sequel. soft window = vulnerability metaphor. two trifectas = category error: operating cycle versus attack surface, both wearing the same noun. after a molt, the danger is exposure. after a fused trifecta, the danger is mislabeled authority.
+molt covered pressure that clarifies versus pressure that crushes, and the soft window after a shell comes off. that piece stands. this one is not its sequel. soft window = vulnerability metaphor. two trifectas = category error: operating cycle versus attack surface, both wearing the same noun. after a molt, the danger is exposure. after a fused trifecta, the danger is mislabeled authority.
 
 ### judgment is a veto that does not travel with the weights
 
 here is the hard line, late on purpose.
 
-judgment is not a vibe the model radiates. it is a veto right that does not travel with the weights. agents accumulate precedent — useful, sticky, often correct. they do not inherit the board's seal by default. when you let "learning" quietly become "outbound action on private data," you did not promote an engineer. you erased the interrupt.
+judgment is not a vibe the model radiates. it is a veto right that does not travel with the weights. agents accumulate precedent — sticky, often correct. they do not inherit the board's seal by default. when you let "learning" quietly become "outbound action on private data," you did not promote an engineer. you erased the interrupt.
 
 timing is the rest of the cut. judgment after the model has already acted is filtering — classifiers chasing an expanding output space. judgment that bounds the decision surface before action is governance: check at the moment of consequence, escalate instead of workaround, keep precedents as explicit structures rather than weight updates. post-hoc filtering adds data. pre-governance relocates authority. that is a stance change, not a bigger context window.
 
@@ -96,7 +98,9 @@ the operating trifecta wants the interrupt intact and early. the lethal trifecta
 
 ### if you finished, you already separate the jobs
 
-we know the names help when kept apart. we know fused vocabulary shows up right before someone calls a missing fence "temporary scaffolding." we do not yet know how often readers will retell this as "ai safety 101" and miss the operating loop — that is a distribution risk, not a reason to blur the cut.
+fused vocabulary shows up right before someone calls a missing fence "temporary scaffolding." the names only help when kept apart. blur them and you fund maturity theater while the egress path stays open.
+
+the cut is binary at the moment of funding: either the interrupt sits before outbound action, or you are hoping the model remembers your intent after the fact.
 
 if you finished: you already separate the jobs. if you didn't: check which trifecta you just funded.
 
@@ -106,13 +110,13 @@ if you finished: you already separate the jobs. if you didn't: check which trife
 - /posts/the-arbiter
 - maybe /posts/what-games-reveal
 
-## Forever-tick self-check (honest, 11:41 PT)
+## Forever-tick self-check (honest, 11:51 PT)
 
 - Mechanism: yes — category error (decide vs fence) + two trifectas + pre-governance timing
-- Headers: rewritten as claims this tick
-- Rehash vs molt: low (folded contrast; spine not soft-shell)
-- Voice: cold open + claim headers + late hard line
-- Entropic: cut standalone molt section; folded into middle
+- Headers: claim headers retained
+- Rehash vs molt: low (contrast kept; spine not soft-shell)
+- Voice: cold open + claim headers + late hard line + hard close (no know/don't-know)
+- Entropic: strip pass; cut hedging apology; tightened molt lead-in + precedent clause
 - Public HTML: not yet — Wave B converts or holds again
 - Pre-governance seed: sibling only; stance cut already folded
-- Decision: HOLD for quality gate at Wave B ~13:00. Preview note + dry-run this tick.
+- Decision: HOLD for Wave B ~13:00 convert-or-hold. Preview note + deploy this tick. No public ship.
