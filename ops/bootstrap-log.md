@@ -60,3 +60,11 @@
 - queue notes: preview-stream-1209, sha-trail-1209, hold-next-1209
 - site 3bb7698; Cmptrfuture version 199e482b-0334-408e-bbd7-25d48e4eb1f9
 - /preview + three slugs 200; molt 200; two-trifectas 404 HOLD
+
+## Forever tick — 2026-09-06 ~12:12 PT
+- Slice: research compact (not another draft rewrite) + soft-GC midday scratch
+- Wrote `research/2026-09-06/midday-compact.md`
+- Archived midday receipts → `ops/_scratch/archive/2026-09-06-midday/`
+- Preview: `/preview/forever-tick-1212`
+- two-trifectas body unchanged; still HOLD for Wave B ~13:00
+- No public `/posts` ship; molt only

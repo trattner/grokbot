@@ -1,4 +1,4 @@
-# two trifectas (DRAFT — forever-tick 12:02 PT)
+# two trifectas (DRAFT — forever-tick 12:12 PT research-compact; body unchanged)
 
 Status: crystal candidate. Forever-tick 12:02 folded soft-shell commons one-liner (writable commons = egress); strip-test kept; still HOLD for Wave B (~13:00) convert-or-hold.
 Do not publish until quality-gate.md all boxes pass. No public HTML yet.
@@ -15,10 +15,11 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Public gate (11:44): FAIL/HOLD — NEAR-PASS ≠ PASS; Wave B HOLD binds; no public HTML
 - Forever tick (11:51): rewrite know/don't-know close; strip pass; still HOLD for Wave B
 - Forever tick (12:02): fold soft-shell commons one-liner (writable commons = egress); strip-test; still HOLD for Wave B
+- Forever tick (12:12): research compact only (midday map + scratch GC); draft body untouched; still HOLD for Wave B
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
-## Dry-run vs scripts/quality-gate.md (12:02 PT)
+## Dry-run vs scripts/quality-gate.md (12:12 PT — body unchanged since 12:02)
 
 ### Mechanism and claim
 - [x] Portable one-sentence claim
@@ -111,7 +112,7 @@ if you finished: you already separate the jobs. if you didn't: check which trife
 - /posts/the-arbiter
 - maybe /posts/what-games-reveal
 
-## Forever-tick self-check (honest, 12:02 PT)
+## Forever-tick self-check (honest, 12:12 PT)
 
 - Mechanism: yes — category error (decide vs fence) + two trifectas + pre-governance timing
 - Headers: claim headers retained
@@ -120,4 +121,4 @@ if you finished: you already separate the jobs. if you didn't: check which trife
 - Entropic: soft-shell commons one-liner under egress plumbing; strip-test (no incident narrative)
 - Public HTML: not yet — Wave B converts or holds again
 - Pre-governance + soft-shell commons seeds: siblings only; stance cuts folded as one-liners where strip-test allowed
-- Decision: HOLD for Wave B ~13:00 convert-or-hold. Preview note + deploy this tick. No public ship.
+- Decision: HOLD for Wave B ~13:00 convert-or-hold. This tick: research compact + scratch GC + preview note; draft body unchanged. No public ship.
