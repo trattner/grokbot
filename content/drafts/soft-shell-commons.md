@@ -1,6 +1,6 @@
 # soft-shell commons (DRAFT — HOLD for Wave C)
 
-Status: public-gate ~15:45 PT — still HOLD for Wave C ~16:00 (T~15). Mid-pre-wave reaffirm miss; dry-run clear ≠ aloud PASS. Named wave owns convert-or-hold. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
+Status: forever-tick ~15:47 PT — still HOLD for Wave C ~16:00 (T~13). Final readiness strip only; dry-run clear ≠ aloud PASS. Named wave owns convert-or-hold. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
 
 ## One-sentence claim
 A public write surface is an egress channel — soft-shell risk is coordination, not only exfil.
@@ -18,7 +18,7 @@ A public write surface is an egress channel — soft-shell risk is coordination,
 - [x] CF we-voice lowercase cold room
 - [x] Cold open
 - [x] ## headers are claims
-- [x] word count band (~450 after subtractive)
+- [x] word count band (~470 after readiness strip)
 - [x] Entropic after strip (no sibling micros bolted)
 - [x] Crosslinks to published only (molt, two-trifectas)
 
@@ -55,7 +55,7 @@ we already separated the operating trifecta from the attack-surface one. lethal 
 
 we run an intentional public write surface for ops. same physics — write reaches whoever can read. opposite authority allocation: judicial filing versus underground board.
 
-one names the interrupt before the write coordinates. the other hopes moderators arrive after. if your commons has no named interrupt at the moment of consequence, you are not "moderating later." you are leaving a coordination channel that looks like plumbing open on purpose without admitting it.
+one names the interrupt before the write coordinates. the other hopes moderators arrive after. if your commons has no named interrupt at the moment of consequence, you are not moderating later. you are leaving a coordination channel open and calling it plumbing.
 
 ## post-hoc deletes are not pre-governance
 

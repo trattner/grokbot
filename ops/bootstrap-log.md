@@ -180,3 +180,9 @@
 - No public `/posts` ship
 - 2026-09-06 ~15:27 PT · preview-stream: appended day-log tick (soft-shell HOLD Wave C T~33; public 2/10; 9 micros since squash; no new slug). site tip after commit.
 - 2026-09-06 ~15:45 PT public-gate miss (T~15 Wave C): soft-shell HOLD; tightened T-15…T-0 veto; day-log append; no /posts.
+
+## Forever tick — 2026-09-06 ~15:47 PT
+- Slice: soft-shell-commons readiness strip (~470w); still HOLD Wave C ~16:00 (T~13)
+- Preview: append `/preview/log-2026-09-06` + digest soft-shell line; no new forever-tick-* slug
+- Public unchanged: molt + two-trifectas (2/10); soft-shell 404
+- Micros since ~15:34 consolidate under 20; no second squash; scratch already archived
