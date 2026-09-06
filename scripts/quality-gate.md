@@ -51,3 +51,9 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Sibling seeds (pre-governance, soft-shell commons, confused-deputy, bb6-humor) stay seed-only; never soft-promote them to fill the 1–10 daily ceiling between waves
 - Prefer miss + preview note over mid-cycle public HTML
 - After a named wave ships, residual daily capacity is never a soft green light for the next crystal. That crystal's Wave HOLD (e.g. Wave C for soft-shell-commons) still binds until its convert-or-hold runs aloud
+
+## Pre-wave polish ≠ PASS
+
+- Forever-tick band restores, subtractive telescopes, and dry-run checkbox refreshes during a named-wave HOLD do not convert the crystal.
+- Clock proximity to the wave (T-60…T-0) never substitutes for convert-or-hold.
+- Soft-shell-commons (and any Wave C crystal) stays HOLD until Wave C runs aloud — residual daily capacity after Wave A/B ships is irrelevant.

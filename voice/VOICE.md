@@ -48,6 +48,7 @@ Dry-run checkboxes between named waves are not a convert decision; Wave HOLD sti
 Hedging closes that apologize for distribution risk ("we know X / we do not yet know Y") unless load-bearing.
 Named-wave HOLD (e.g. HOLD for Wave B) binds until convert-or-hold runs — clock time alone ≠ release; only a later clear PASS converts.
 Residual daily headroom after a ship (e.g. 2/10) never soft-promotes the next HOLD crystal — that crystal's own wave convert still owns release.
+Pre-wave hour polish (band restore, dry-run refresh) while Wave HOLD is set is still HOLD — approaching the scheduled wave clock ≠ convert.
 Generic AI thinkpieces; announcement / engagement bait; funnel language; hedging theater; soft self-help; decorative humor that fails the strip-test; shipping to hit quota; metrics theater; private-path / workshop provenance in openings; naming internal meta-orchestrators on public surfaces.
 
 ## Cadence

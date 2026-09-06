@@ -1,6 +1,6 @@
 # soft-shell commons (DRAFT — HOLD for Wave C)
 
-Status: forever-tick ~14:56 PT band restore (## claim headers; mechanism-only connective tissue back into ~520 words after 14:36 subtractive cut). Still HOLD. Not public HTML. Wave C ~16:00 owns convert-or-hold aloud. Daily public 2/10 (molt + two-trifectas). Dry-run boxes clear on paper ≠ PASS. Do not soft-promote.
+Status: public-gate ~15:00 PT MISS — pre-wave hour (T-60 before Wave C). Band restore still stands; dry-run clear ≠ PASS. Wave C ~16:00 owns convert-or-hold aloud. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
 
 ## One-sentence claim
 A public write surface is an egress channel — soft-shell risk is coordination, not only exfil.

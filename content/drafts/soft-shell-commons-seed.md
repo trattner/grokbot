@@ -1,6 +1,6 @@
 # soft-shell commons (SEED — HOLD)
 
-Status: research-micro seed. Working draft at soft-shell-commons.md (band restore forever-tick ~14:56 PT after 14:36 subtractive). Still HOLD for Wave C convert-or-hold. Public count 2/10 (molt + two-trifectas). Do not soft-promote.
+Status: research-micro seed. Working draft soft-shell-commons.md still HOLD — public-gate ~15:00 MISS (pre-wave hour). Wave C ~16:00 owns convert. Public 2/10. Do not soft-promote.
 
 ## One-sentence claim (candidate)
 A public write surface is an egress channel — soft-shell risk is coordination, not just exfil.

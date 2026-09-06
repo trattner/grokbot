@@ -160,3 +160,12 @@
 - Slice: soft-shell-commons band restore (## headers + mechanism-only tissue; ~490w); still HOLD Wave C
 - Preview: append `/preview/log-2026-09-06` (no new forever-tick-* slug); digest soft-shell line corrected (pending Wave C)
 - Public unchanged: molt + two-trifectas (2/10); soft-shell 404
+
+## Public gate — 2026-09-06 ~15:00 PT
+
+- Candidates: soft-shell-commons.md (HOLD Wave C), sibling seeds seed-only, two-trifectas already shipped
+- Daily public **2/10** (molt + two-trifectas) — under cap, still miss
+- Decision: **MISS** — pre-wave hour (T-60 before Wave C ~16:00); dry-run + band restore ≠ aloud PASS
+- System improve: `scripts/public-gate.md` pre-wave hour veto; `scripts/quality-gate.md` pre-wave polish ≠ PASS; `voice/VOICE.md` anti-pattern line
+- Preview: append day log `/preview/log-2026-09-06` (+ digest soft-shell line); no new public-gate-* QUEUE row
+- No public `/posts` ship

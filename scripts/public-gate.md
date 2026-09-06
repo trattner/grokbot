@@ -28,3 +28,10 @@ Follow scripts/publish-post.md end-to-end (promote, ALL_POSTS, deploy, verify `/
 
 Between named publish waves, default is miss. Even a draft with all dry-run boxes checked stays HOLD until Wave convert. Scheduled clock for Wave B/C passing without convert-or-hold does not clear HOLD — public-gate still misses. Do not invent a PASS to justify deploy of /posts.
 Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-shell-commons and any next crystal stay HOLD until their named wave's convert-or-hold; mid-cycle public-gate still misses.
+
+## Pre-wave hour (extra veto)
+
+- T-60 through T-0 before a named wave (e.g. 15:00–16:00 ahead of Wave C) is still mid-cycle. Approaching the scheduled clock does not clear HOLD.
+- Band-restore / forever-tick polish while a crystal carries Wave HOLD does not convert. Dry-run boxes staying checked across polish passes still ≠ aloud PASS.
+- Only the wave's convert-or-hold (or an explicit later edit that removes every HOLD/tilde marker AND records an aloud PASS) may ship public HTML.
+- Prefer append-to-day-log for this heartbeat (`log-YYYY-MM-DD`) over inventing a new `public-gate-*` QUEUE row (see ops/preview-policy.md).
