@@ -34,3 +34,7 @@ Not a third public post today. Not a consulting-offer rehash. Not bolting Greenv
 - Public `/posts`: molt + two-trifectas. HOLD further ships this tick.
 - Wave C ~16:00 still owns soft-shell convert-or-hold; this micro does not feed that strip.
 - Sources (no secrets): https://computerfuture.me/posts/small-enough-to-read · https://computerfuture.me/posts/the-filing-is-the-proof · https://computerfuture.me/llms.txt
+
+## Crystal draft (~16:04)
+
+Full draft landed at `content/drafts/fit-is-the-method.md` (HOLD). Seed status points there. Not public; Wave C still owns soft-shell only.
