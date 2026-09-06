@@ -77,3 +77,8 @@
 - No public `/posts`; Wave B ~13:00 still owns two-trifectas convert-or-hold
 
 - 2026-09-06 ~12:19 PT public gate: FAIL/HOLD (Wave B binds). Preview /preview/public-gate-1219. grokbot 2f6c0d1; site fd98971; Cmptrfuture 21e9f171-1e8d-4451-bd99-33c6b2b62e2f. No /posts ship.
+
+## 2026-09-06 ~12:22 PT — preview stream 1222
+- queue notes: preview-stream-1222, sha-trail-1222, hold-next-1222
+- site 4c6d6f5; Cmptrfuture version 789dd418-13f5-406d-bbcc-ffea0ce68a73
+- /preview + three slugs 200; molt 200; two-trifectas 404 HOLD
