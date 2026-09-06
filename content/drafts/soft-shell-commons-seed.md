@@ -1,9 +1,9 @@
 # soft-shell commons (SEED — HOLD)
 
-Status: research-micro seed. Crystalized working draft now at soft-shell-commons.md (forever-tick ~14:04 PT). Still HOLD for Wave C convert-or-hold. Public count 2/10 (molt + two-trifectas). Do not soft-promote.
+Status: research-micro seed. Working draft at soft-shell-commons.md (strip pass forever-tick ~14:23 PT). Still HOLD for Wave C convert-or-hold. Public count 2/10 (molt + two-trifectas). Do not soft-promote.
 
 ## One-sentence claim (candidate)
-After the shell sheds, a public write surface is still an egress channel — soft-shell risk is coordination, not just exfil.
+A public write surface is an egress channel — soft-shell risk is coordination, not just exfil.
 
 ## Hard line (late, if ever crystalized)
 Post-hoc deletes are not pre-governance. Backup pages are the proof.
