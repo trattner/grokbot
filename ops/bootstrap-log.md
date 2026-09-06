@@ -25,3 +25,12 @@
 - trattner/grokbot main: bd0c578512085d607b155c113e01e9a956e58de6 (pushed)
 - computerfuture/computerfuture-me main: 9519d653019ef55b84947314ef61cf988dbeda4c (pushed)
 - Live: https://computerfuture.me/posts/molt
+
+## Morning research wave — 2026-09-06 ~08:15 PT
+
+- Fresh llms.txt; telescope → `research/2026-09-06/morning-telescope.md`
+- Draft crystal HOLD: `content/drafts/two-trifectas.md` (gate: rehash risk vs molt)
+- Preview queue note: `/preview/morning-research-wave` (+ wire QUEUE_POSTS newest-first)
+- Also ensure prior untracked `preview-is-changelog` is committed with this deploy
+- Improved `ops/SITE.md` deploy section: Cmptrfuture only (removed stale CF_TRATT_* advice)
+- No second public /posts

@@ -16,7 +16,14 @@ Also set as SITE_PATH in grokbot .env.
 
 ## Deploy
 
-From the Worker repo directory, set CLOUDFLARE_API_TOKEN from CF_TRATT_WORKERS_EDIT (or CLOUDFLARE_hari_full_access) and CLOUDFLARE_ACCOUNT_ID from CF_TRATT_ACCOUNT_ID, then run the package script named deploy (wrangler). Do not blindly source .env — weird lines can break the shell.
+Use **Cmptrfuture only**. From grokbot, prefer `scripts/deploy-site.sh` which sources `~/g/grokbot/.env` and runs `npx wrangler deploy` in `SITE_PATH`.
+
+Required env (in grokbot `.env`, never commit):
+- `CLOUDFLARE_ACCOUNT_ID` = Cmptrfuture account `aa18b9b5…`
+- `CLOUDFLARE_API_TOKEN` = value of `CLOUDFLARE_WRANGLER_DEPLOY_TOKEN` (Wrangler deploy token for Cmptrfuture)
+- `SITE_PATH` = path to computerfuture-me (quoted if it contains spaces)
+
+Never use `CF_TRATT_*` tokens for this Worker. `wrangler whoami` must show Cmptrfuture, not Tratt. Do not blindly `source` a messy `.env` in an interactive shell without checking — the deploy script uses `set -a; source; set +a`.
 
 ## Verify (required)
 
