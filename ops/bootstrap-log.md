@@ -75,3 +75,5 @@
 - Seed: `content/drafts/confused-deputy-seed.md` HOLD
 - Preview: `/preview/research-micro-1216`
 - No public `/posts`; Wave B ~13:00 still owns two-trifectas convert-or-hold
+
+- 2026-09-06 ~12:19 PT public gate: FAIL/HOLD (Wave B binds). Preview /preview/public-gate-1219. grokbot 2f6c0d1; site fd98971; Cmptrfuture 21e9f171-1e8d-4451-bd99-33c6b2b62e2f. No /posts ship.
