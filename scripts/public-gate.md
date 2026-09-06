@@ -39,5 +39,6 @@ Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-s
 ## Mid-pre-wave repeat ticks
 
 - A second or third `@every 30m` public-gate fire inside the same pre-wave hour (e.g. ~15:00 then ~15:30 before Wave C) **reaffirms miss**. Elapsed heartbeats are not evidence toward PASS.
+- Final-quarter hour (T-15…T-0) is still miss. Being fifteen minutes from the named wave does not convert HOLD; the wave's aloud convert-or-hold still owns release.
 - Do not invent a new `public-gate-*` QUEUE row for the reaffirm — append the day log only.
 - Soft-shell (or any Wave C crystal) stays HOLD until Wave C convert-or-hold runs aloud, even if dry-run boxes stay checked across every mid-pre-wave re-scan.

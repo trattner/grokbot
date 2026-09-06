@@ -61,4 +61,5 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 ## Mid-pre-wave re-scan ≠ convert
 
 - Repeat public-gate ticks inside T-60…T-0 do not accumulate toward PASS.
-- Clock countdown (T-40, T-20, …) never substitutes for the named wave's aloud convert-or-hold.
+- Clock countdown (T-40, T-20, T-15, …) never substitutes for the named wave's aloud convert-or-hold.
+- Final-quarter hour (T-15…T-0) still misses — proximity is not convert.

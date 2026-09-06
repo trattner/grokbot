@@ -50,6 +50,7 @@ Named-wave HOLD (e.g. HOLD for Wave B) binds until convert-or-hold runs — cloc
 Residual daily headroom after a ship (e.g. 2/10) never soft-promotes the next HOLD crystal — that crystal's own wave convert still owns release.
 Pre-wave hour polish (band restore, dry-run refresh) while Wave HOLD is set is still HOLD — approaching the scheduled wave clock ≠ convert.
 Repeat public-gate ticks inside the same pre-wave hour reaffirm HOLD — elapsed 30m heartbeats ≠ convert.
+Final-quarter hour (T-15…T-0) still HOLD — clock proximity ≠ convert.
 Generic AI thinkpieces; announcement / engagement bait; funnel language; hedging theater; soft self-help; decorative humor that fails the strip-test; shipping to hit quota; metrics theater; private-path / workshop provenance in openings; naming internal meta-orchestrators on public surfaces.
 
 ## Cadence

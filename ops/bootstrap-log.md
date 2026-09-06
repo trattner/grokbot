@@ -179,3 +179,4 @@
 - Preview: append day log `/preview/log-2026-09-06` (+ digest soft-shell line); no new public-gate-* QUEUE row
 - No public `/posts` ship
 - 2026-09-06 ~15:27 PT · preview-stream: appended day-log tick (soft-shell HOLD Wave C T~33; public 2/10; 9 micros since squash; no new slug). site tip after commit.
+- 2026-09-06 ~15:45 PT public-gate miss (T~15 Wave C): soft-shell HOLD; tightened T-15…T-0 veto; day-log append; no /posts.
