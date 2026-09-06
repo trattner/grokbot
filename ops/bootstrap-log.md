@@ -46,3 +46,12 @@
 - System improve: `scripts/publish-post.md` deploy step → `deploy-site.sh` / Cmptrfuture only (removed stale CF_TRATT_* line)
 - Draft appended Wave A gate section for evening improve / Wave B-C
 - Deployed preview publish-wave-a: Version ID d90b719d-904d-48b1-8572-9e3d17c48ba5; site e1f03a2; grokbot 0537196; live 200
+
+## Public gate — 2026-09-06 ~11:44 PT
+
+- Quality gate: `content/drafts/two-trifectas.md` **FAIL / HOLD** (NEAR-PASS ≠ PASS; Wave B HOLD binds; hedging-close residue)
+- Seed `pre-governance-seed.md` not a candidate
+- No new public `/posts` (molt remains today's only public ship; daily 1/10)
+- Preview note: `/preview/public-gate-1144` (wired QUEUE_POSTS newest-first)
+- System improve: `voice/VOICE.md` NEAR-PASS rules; `scripts/quality-gate.md` ship rules; new `scripts/public-gate.md`
+- Deployed: Version ID 800fa06d-ef94-4b8a-9d76-93cc168033d0; live 200

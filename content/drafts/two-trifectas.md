@@ -12,6 +12,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Forever tick (11:25): folded pre-governance timing into hard-line section; still HOLD
 - Forever tick (11:32): strip-test + category-error sharpen; still HOLD
 - Forever tick (11:41): quality-gate dry-run + claim headers + molt contrast folded; still HOLD
+- Public gate (11:44): FAIL/HOLD — NEAR-PASS ≠ PASS; Wave B HOLD binds; no public HTML
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
@@ -43,6 +44,9 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 
 ### Dry-run decision
 NEAR-PASS structurally; HOLD for Wave B convert-or-hold. Remaining Wave B checks: strip one more time aloud; confirm no workshop-defensive residue; crystalize to published JS only if still clear.
+
+### Public gate (11:44 PT)
+FAIL/HOLD. Veto reasons: NEAR-PASS is not PASS; named Wave B HOLD still binds; closing know/don't-know still carries light hedging residue. Daily public count 1/10 (room exists; quality vetoes). No promote. Control-plane: tightened voice + quality-gate + public-gate runbook.
 
 ---
 

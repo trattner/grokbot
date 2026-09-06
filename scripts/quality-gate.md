@@ -38,4 +38,8 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 ## Ship decision
 
 - PASS -> follow scripts/publish-post.md
-- FAIL -> improve draft / repo; commit safe control-plane work; do not deploy
+- NEAR-PASS / HOLD -> improve draft; preview-log the miss; do not ship public
+- FAIL -> improve draft / repo; commit safe control-plane work; do not deploy public
+- Daily count under 10 is necessary, never sufficient
+- Named-wave HOLD binds mid-cycle public-gate ticks unless a later edit produces clear PASS (no tilde boxes)
+- Public-gate cron uses this same checklist; cadence never overrides veto

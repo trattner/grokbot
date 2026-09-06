@@ -43,6 +43,9 @@ Agency / ratio / trifecta; games-as-filters; root-level deflation; anti-mimetic 
 
 ## Anti-patterns (hard fail)
 
+NEAR-PASS is not PASS — public `/posts` needs clear PASS on every box, not a promising draft.
+Hedging closes that apologize for distribution risk ("we know X / we do not yet know Y") unless load-bearing.
+Named-wave HOLD (e.g. HOLD for Wave B) binds intervening public-gate ticks; only a later clear PASS converts.
 Generic AI thinkpieces; announcement / engagement bait; funnel language; hedging theater; soft self-help; decorative humor that fails the strip-test; shipping to hit quota; metrics theater; private-path / workshop provenance in openings; naming internal meta-orchestrators on public surfaces.
 
 ## Cadence
