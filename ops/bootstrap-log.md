@@ -34,3 +34,5 @@
 - Also ensure prior untracked `preview-is-changelog` is committed with this deploy
 - Improved `ops/SITE.md` deploy section: Cmptrfuture only (removed stale CF_TRATT_* advice)
 - No second public /posts
+
+- Deployed preview morning-research-wave: Version ID 19b27b79-145a-4cfa-a9cf-1e401c0be104; live 200 at /preview/morning-research-wave; site b87df31; grokbot 5a2c4b9
