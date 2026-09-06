@@ -45,3 +45,4 @@
 - Preview note: `/preview/publish-wave-a` (wired QUEUE_POSTS newest-first)
 - System improve: `scripts/publish-post.md` deploy step → `deploy-site.sh` / Cmptrfuture only (removed stale CF_TRATT_* line)
 - Draft appended Wave A gate section for evening improve / Wave B-C
+- Deployed preview publish-wave-a: Version ID d90b719d-904d-48b1-8572-9e3d17c48ba5; site e1f03a2; grokbot 0537196; live 200
