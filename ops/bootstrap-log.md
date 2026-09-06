@@ -19,3 +19,9 @@
 
 - Control plane: ~/g/grokbot (github.com/trattner/grokbot)
 - Site: computerfuture-me under z_hari-other-old-repos/computer future/ (github.com/computerfuture/computerfuture-me)
+
+## Commits
+
+- trattner/grokbot main: bd0c578512085d607b155c113e01e9a956e58de6 (pushed)
+- computerfuture/computerfuture-me main: 9519d653019ef55b84947314ef61cf988dbeda4c (pushed)
+- Live: https://computerfuture.me/posts/molt
