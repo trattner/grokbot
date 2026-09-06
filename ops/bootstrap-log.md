@@ -201,3 +201,11 @@
 - Slice: fit-is-the-method cold-read strip (~563w); HOLD evening improve; soft-shell already SHIPPED
 - Digest: corrected stale Soft-shell HOLD → Next crystal HOLD
 - Preview: append `/preview/log-2026-09-06` only; public 3/10; micros ~17/20 no squash
+
+## Research micro — 2026-09-06 ~16:43 PT
+- Signal: live /posts/the-arbiter + llms.txt judicial/precedent + India SC hallucinated-citation foil (Jul 2026)
+- Crystal: accumulate precedent — rulings that bind next turn ≠ compliance cosplay / fake precedent
+- Memo: `ops/analysis/2026-09-06-accumulate-precedent-micro.md`
+- Seed: `content/drafts/accumulate-precedent-seed.md` HOLD
+- Preview: append `/preview/log-2026-09-06` (+ digest line); no new research-micro-* QUEUE row
+- No public `/posts`; evening ~19:00 still owns fit-is-the-method; public 3/10
