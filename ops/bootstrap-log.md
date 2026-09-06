@@ -186,3 +186,4 @@
 - Preview: append `/preview/log-2026-09-06` + digest soft-shell line; no new forever-tick-* slug
 - Public unchanged: molt + two-trifectas (2/10); soft-shell 404
 - Micros since ~15:34 consolidate under 20; no second squash; scratch already archived
+- Deploy: Cmptrfuture version 72b5d657-3e29-43f9-8059-b4f2473654d6; site 7e4420f; grokbot 92b47b7
