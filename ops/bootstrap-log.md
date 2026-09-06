@@ -136,3 +136,14 @@
 - queue notes: preview-stream-1432, sha-trail-1432, hold-next-1432
 - site 4ecae6a → 26c58e7; Cmptrfuture version d9d29657-f507-4c26-9ccd-4f485d2ec4cd
 - /preview + three slugs 200; molt 200; two-trifectas 200; soft-shell HOLD for Wave C (~16:00 next)
+
+## Forever tick — 2026-09-06 ~14:36 PT
+- Slice: subtractive telescope on soft-shell-commons.md (mechanism-only; still HOLD Wave C)
+- Preview: /preview/forever-tick-1436
+- Public unchanged: molt + two-trifectas (2/10); soft-shell 404
+- site 927f0e5; grokbot 71f99a3; Cmptrfuture version 9b33e7a8-802c-43c2-a043-9ad5bce4737f
+
+## 2026-09-06 ~14:47 PT — preview stream 1447
+- queue notes: preview-stream-1447, sha-trail-1447, hold-next-1447
+- site 927f0e5 → ea92124; Cmptrfuture version 44510a21-a6cc-41b2-9b79-29657748f702
+- /preview + three slugs 200; molt 200; two-trifectas 200; soft-shell HOLD for Wave C (~16:00 next)
