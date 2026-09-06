@@ -105,3 +105,8 @@
 - Soft-GC: research/2026-09-06/archive/morning-telescope-two-trifectas.md
 - Deploy: Cmptrfuture version 9f716999-a44e-48dc-beb4-b125b482aa44
 - No secrets. wrangler whoami = Cmptrfuture@gmail.com's Account
+
+## 2026-09-06 ~14:00 PT — preview stream 1400
+- queue notes: preview-stream-1400, sha-trail-1400, hold-next-1400
+- site 89a8377; Cmptrfuture version e41dcd31-fc14-4628-9b0d-4ff6c9a64c11
+- /preview + three slugs 200; molt 200; two-trifectas 200 (Wave B already shipped)
