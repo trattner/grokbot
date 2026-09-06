@@ -37,3 +37,11 @@
 
 - Deployed preview morning-research-wave: Version ID 19b27b79-145a-4cfa-a9cf-1e401c0be104; live 200 at /preview/morning-research-wave; site b87df31; grokbot 5a2c4b9
 - Tightened note under 900 chars; redeploy Version ID e188b8f8-9b74-4209-9d94-1af79c07b2d6; site 84a5d02; live note chip (full body)
+
+## Publish wave A — 2026-09-06 ~10:00 PT
+
+- Quality gate: `content/drafts/two-trifectas.md` **FAIL / HOLD** (sketch; rehash risk vs molt; no public HTML)
+- No new public `/posts` (molt remains today's only public ship)
+- Preview note: `/preview/publish-wave-a` (wired QUEUE_POSTS newest-first)
+- System improve: `scripts/publish-post.md` deploy step → `deploy-site.sh` / Cmptrfuture only (removed stale CF_TRATT_* line)
+- Draft appended Wave A gate section for evening improve / Wave B-C
