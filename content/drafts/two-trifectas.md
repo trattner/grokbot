@@ -16,6 +16,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Forever tick (11:51): rewrite know/don't-know close; strip pass; still HOLD for Wave B
 - Forever tick (12:02): fold soft-shell commons one-liner (writable commons = egress); strip-test; still HOLD for Wave B
 - Forever tick (12:12): research compact only (midday map + scratch GC); draft body untouched; still HOLD for Wave B
+- Public gate (12:19): FAIL/HOLD — Wave B HOLD still binds (~13:00); mid-cycle dry-run ≠ PASS; no public HTML; seeds stay seed-only
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
@@ -47,7 +48,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - [x] No know/don't-know distribution-risk apology in the close (rewritten 11:51)
 
 ### Dry-run decision
-Soft-shell commons one-liner folded under egress plumbing; strip-test kept (no DseWiki narrative bolt-on). Boxes still look clear on paper. Still **HOLD** for Wave B convert-or-hold: named Wave B HOLD binds this tick; no public HTML; Wave B does the final aloud convert decision. Daily public remains molt only (1/10).
+Boxes still look clear on paper (body unchanged since 12:02). Still **HOLD** for Wave B ~13:00 convert-or-hold. Public gate 12:19: mid-cycle miss — named Wave B HOLD binds; dry-run ≠ PASS; no public HTML; sibling seeds stay seed-only. Daily public remains molt only (1/10).
 
 ### Public gate (11:44 PT) — still binds mid-cycle
 FAIL/HOLD logged. This forever-tick improves the draft; does not convert.

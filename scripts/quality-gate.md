@@ -43,3 +43,10 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Daily count under 10 is necessary, never sufficient
 - Named-wave HOLD binds mid-cycle public-gate ticks unless a later edit produces clear PASS (no tilde boxes)
 - Public-gate cron uses this same checklist; cadence never overrides veto
+
+## Mid-cycle public-gate (extra veto)
+
+- Named-wave HOLD (Wave A/B/C) binds every intervening public-gate tick until that wave's convert-or-hold runs
+- Dry-run checkboxes "clear on paper" ≠ PASS. PASS requires an aloud convert decision at the wave (or an explicit later edit that removes every tilde / HOLD marker)
+- Sibling seeds (pre-governance, soft-shell commons, confused-deputy, bb6-humor) stay seed-only; never soft-promote them to fill the 1–10 daily ceiling between waves
+- Prefer miss + preview note over mid-cycle public HTML

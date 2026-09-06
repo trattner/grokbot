@@ -23,3 +23,7 @@ Quiet cron (@every 30m). Prefer fewer bangers.
 ## On pass
 
 Follow scripts/publish-post.md end-to-end (promote, ALL_POSTS, deploy, verify `/posts/:slug`), then still drop the preview note.
+
+## Mid-cycle default
+
+Between named publish waves, default is miss. Even a draft with all dry-run boxes checked stays HOLD until Wave convert. Do not invent a PASS to justify deploy of /posts.
