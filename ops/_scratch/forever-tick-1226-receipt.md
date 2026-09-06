@@ -16,8 +16,8 @@ Draft-improve on `two-trifectas` + preview ops note. No public ship.
 - Wired `post_forever_tick_1226` at top of `QUEUE_POSTS` in `src/index.js`
 
 ## SHAs (before → after; after filled at commit)
-- grokbot before: `86fa5d3`
-- site before: `4c6d6f5`
+- grokbot before: `86fa5d3` → after: `678c883`
+- site before: `4c6d6f5` → after: `f1c155b`
 - deploy Version ID: `90720eff-71c8-4782-b9f5-3ecd79c27bb7` (Cmptrfuture via scripts/deploy-site.sh)
 
 ## Gate
