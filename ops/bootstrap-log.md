@@ -122,3 +122,8 @@
 - No public `/posts` (still molt + two-trifectas; daily 2/10). Preview `/preview/public-gate-1415`
 - Miss work: residual-capacity veto in VOICE.md / quality-gate.md / public-gate.md
 - Deploy: Cmptrfuture version e89908bc-cc3d-48fb-82dc-42578148dd29; grokbot ca3a191; site 1cf13ea
+
+## 2026-09-06 ~14:20 PT — preview stream 1420
+- queue notes: preview-stream-1420, sha-trail-1420, hold-next-1420
+- site 2b6b15a; Cmptrfuture version 642f89b2-83ed-4f50-85df-d72127e6d2bd
+- /preview + three slugs 200; molt 200; two-trifectas 200; soft-shell HOLD for Wave C
