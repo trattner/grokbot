@@ -1,6 +1,6 @@
 # confused deputy (SEED — HOLD)
 
-Status: crystal draft at content/drafts/confused-deputy.md (forever-tick ~16:39 PT). Still HOLD — not public HTML; later wave owns convert. Soft-shell-commons already SHIPPED Wave C; fit-is-the-method owns evening ~19:00. Do not soft-promote on residual 3/10.
+Status: crystalized to confused-deputy.md (HOLD). Forever-tick ~16:48 strip pass. Evening still owns fit convert ~19:00. Not public.
 
 ## One-sentence claim (candidate)
 The sandbox wall is not the boundary — the tool broker you allowed to speak outbound is. A package proxy with fetch authority is a confused deputy.

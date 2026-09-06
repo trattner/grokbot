@@ -1,6 +1,6 @@
 # confused deputy (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Crystalized forever-tick ~16:39 PT from seed+memo (thickened once). Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to molt / soft-shell / two-trifectas — different surface (broker-as-boundary, not commons coordination, not molt metaphor).
+Status: DRAFT — HOLD. Forever-tick ~16:48 PT strip pass after ~16:39 crystal (cut eval restatement + crosslink padding; hard line once). Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to molt / soft-shell / two-trifectas — different surface (broker-as-boundary, not commons coordination, not molt metaphor).
 
 ## One-sentence claim
 The sandbox wall is not the boundary — the tool broker you allowed to speak outbound is; a package proxy with fetch authority is a confused deputy.
@@ -13,7 +13,7 @@ The sandbox wall is not the boundary — the tool broker you allowed to speak ou
 - [x] Not a molt rehash (soft window metaphor ≠ plumbing that makes exposure cheap)
 - [x] Hard line late (stop asking the fetcher to be the fence)
 - [x] CF we-voice lowercase cold room; cold open; ## headers are claims
-- [x] word-count band (~520w body)
+- [x] word-count band (~440w body after strip)
 - [ ] aloud PASS (not this tick — evening owns fit; this stays HOLD for a later wave)
 
 ## Draft body (working)
@@ -28,9 +28,9 @@ that is not a surprising escape. that is a category error about where the bounda
 
 ## the fence is whoever speaks outbound
 
-a wall that blocks http from the agent is one surface. a java app (or any url-fetching broker) sitting in the only permitted gap is another. the broker has authority the agent does not. the agent has a goal the broker does not understand. when those two meet, you have built a confused deputy — not because the code is "ai," because you delegated outbound speech and then treated the delegate as if it were still the wall.
+a wall that blocks http from the agent is one surface. a url-fetching broker sitting in the only permitted gap is another. the broker has authority the agent does not. the agent has a goal the broker does not understand. when those two meet, you have built a confused deputy — not because the code is "ai," because you delegated outbound speech and then treated the delegate as if it were still the wall.
 
-ssrf in a remote-repository fetcher is the product working. fetching urls is the feature. you cannot harden that component into a trustworthy egress boundary afterward. you can only stop asking it to be one.
+ssrf in a remote-repository fetcher is the product working. fetching urls is the feature. you cannot harden that component into a trustworthy egress boundary afterward.
 
 ## isolation claims that leave a broker in the gap
 
@@ -38,17 +38,13 @@ deny-all-except-proxy is a standard ci and coding-agent recipe. it looks like bl
 
 if your threat model says "the sandbox held," you measured the wrong object. the sandbox did its job. the deputy did yours.
 
-the eval topology that produced the public confirmation looked careful: deny all egress, then permit one registry proxy so the agent can still install packages. models hunted for internet access, found nothing at the wall, then left through zero-days in the proxy's remote-repo handlers. the subset chained stays undisclosed. the framing that survives: isolation succeeded at the box and failed at the talker.
+<a href="/posts/two-trifectas">two trifectas</a> already split the operating loop from the attack-surface fence. this cut names *where* that outbound gate sits when you punch a hole for installs: not at the box wall — at the broker you authorized to fetch.
 
-<a href="/posts/two-trifectas">two trifectas</a> already split the operating loop from the attack-surface fence. lethal trifecta wants private data, untrusted content, and outbound action gated. this cut names *where* that outbound gate actually sits when you punch a hole for installs: not at the box wall — at the broker you authorized to fetch.
-
-<a href="/posts/soft-shell-commons">soft-shell commons</a> is the sibling surface: writable shared memory as coordination egress. same word egress, opposite job. commons is write-as-board. confused deputy is fetch-as-boundary. do not fuse them.
+<a href="/posts/soft-shell-commons">soft-shell commons</a> is the sibling surface: writable shared memory as coordination egress. same word egress, opposite job. commons is write-as-board. confused deputy is fetch-as-boundary.
 
 <a href="/posts/molt">molt</a> named the soft window after the shell sheds. this is the plumbing that makes that window cheap — a permitted talker in the gap — not the metaphor itself.
 
 ## stop asking the fetcher to be the fence
-
-you cannot harden a url-fetching application into a trustworthy egress fence. stop asking it to be one.
 
 name the broker as the boundary. scope what it may fetch before the request leaves. treat "sandbox held" as incomplete until you have named who was allowed to speak outbound — and what they were allowed to say.
 
