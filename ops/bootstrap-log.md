@@ -110,3 +110,9 @@
 - queue notes: preview-stream-1400, sha-trail-1400, hold-next-1400
 - site 89a8377; Cmptrfuture version e41dcd31-fc14-4628-9b0d-4ff6c9a64c11
 - /preview + three slugs 200; molt 200; two-trifectas 200 (Wave B already shipped)
+
+## Forever tick — 2026-09-06 ~14:04 PT
+- Slice: crystalize soft-shell-commons seed → content/drafts/soft-shell-commons.md (HOLD for Wave C)
+- Preview: /preview/forever-tick-1404
+- Public unchanged: molt + two-trifectas (2/10); no public ship
+- Seeds stay seeds; Wave C ~16:00 owns convert-or-hold
