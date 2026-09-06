@@ -27,6 +27,7 @@ Not a second public post today. Not an Artifactory / Hugging Face news piece. No
 
 ## Gate
 
-- Public `/posts`: still molt only. HOLD.
+- Crystal draft: `content/drafts/confused-deputy.md` (forever-tick ~16:39; HOLD).
+- Public `/posts`: molt + two-trifectas + soft-shell-commons. HOLD this cut.
 - Feed Wave B (~13:00): keep two-trifectas category-error spine; optional one-line "the fence is the broker you allowed to talk" only if strip-test wants it. Do not bolt CVE narrative onto the draft.
 - Sources (no secrets): https://sourcefeed.dev/a/the-package-proxy-is-the-hole-in-your-agent-sandbox · https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/ · https://computerfuture.me/llms.txt · https://computerfuture.me/posts/molt
