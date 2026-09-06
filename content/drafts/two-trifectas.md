@@ -1,43 +1,33 @@
-# two trifectas (DRAFT — forever-tick 12:26 PT draft-improve; still HOLD Wave B)
+# two trifectas (SHIPPED — Wave B 2026-09-06 ~13:54 PT)
 
-Status: crystal candidate. Forever-tick 12:26 strip pass on molt-contrast + compliment simile; soft-shell commons one-liner kept; still HOLD for Wave B (~13:00) convert-or-hold.
-Do not publish until quality-gate.md all boxes pass. No public HTML yet.
+Status: SHIPPED. Public at /posts/two-trifectas. Wave B convert-or-hold: PASS (aloud quality-gate, every box). Crystal: src/posts/published/2026-09-06-two-trifectas.js.
+Do not re-publish. Sibling seeds remain seed-only.
 
 ## One-sentence claim
 There are two trifectas in circulation; mistaking the operating one for the attack-surface one is how you mis-allocate authority.
 
 ## Gate status
 - Wave A (10:00): FAIL/HOLD — sketch only
-- Forever tick (11:10): body crystalized; still HOLD
-- Forever tick (11:25): folded pre-governance timing into hard-line section; still HOLD
-- Forever tick (11:32): strip-test + category-error sharpen; still HOLD
-- Forever tick (11:41): quality-gate dry-run + claim headers + molt contrast folded; still HOLD
-- Public gate (11:44): FAIL/HOLD — NEAR-PASS ≠ PASS; Wave B HOLD binds; no public HTML
-- Forever tick (11:51): rewrite know/don't-know close; strip pass; still HOLD for Wave B
-- Forever tick (12:02): fold soft-shell commons one-liner (writable commons = egress); strip-test; still HOLD for Wave B
-- Forever tick (12:12): research compact only (midday map + scratch GC); draft body untouched; still HOLD for Wave B
-- Public gate (12:19): FAIL/HOLD — Wave B HOLD still binds (~13:00); mid-cycle dry-run ≠ PASS; no public HTML; seeds stay seed-only
-- Public gate (13:46): FAIL/HOLD — Wave B never ran; HOLD still binds; no public HTML
-- Forever tick (12:26): draft-improve — compress molt-contrast to category-error cut; strip compliment simile; soft-shell one-liner kept; still HOLD for Wave B
-- Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
-- Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
+- Forever ticks through 12:26: body improve; HOLD bound
+- Public gates 11:44 / 12:19 / 13:46: FAIL/HOLD — Wave B convert had not run
+- Wave B (~13:54 PT): **PASS** — aloud convert; public HTML shipped
 
-## Dry-run vs scripts/quality-gate.md (12:26 PT — body strip toward Wave B)
+## Wave B aloud vs scripts/quality-gate.md (2026-09-06)
 
 ### Mechanism and claim
 - [x] Portable one-sentence claim
 - [x] Names a real mechanism (category error + two machines + pre-governance timing)
 - [x] Changes predictive model if reader was fusing the terms
-- [x] Not a molt rehash (explicit cut: soft window ≠ fused trifecta / exposure vs mislabeled authority)
+- [x] Not a molt rehash (soft window ≠ fused trifecta / exposure vs mislabeled authority)
 - [x] Hard line late (veto right / pre-governance)
 
 ### Voice and form
 - [x] CF we-voice lowercase cold room
 - [x] Cold open
 - [x] ##/### headers are claims
-- [x] ~body in 450–850 band; strip pass cut soft residue
-- [x] Entropic: molt-contrast compressed; compliment simile stripped; soft-shell commons one-liner kept
-- [x] Crosslinks planned to published only
+- [x] ~648 words in 450–850 band
+- [x] Entropic after strip passes
+- [x] Crosslinks to published only (molt, resource-allocator, the-arbiter)
 - [x] No decorative P.S.
 
 ### Mission filter
@@ -47,13 +37,9 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 
 ### Hard fails
 - [x] No funnel/CTA / LinkedIn soft / decorative humor / private paths / quota ship / sensitive case detail
-- [x] No know/don't-know distribution-risk apology in the close (rewritten 11:51)
 
-### Dry-run decision
-Boxes still look clear on paper after 12:26 strip. Still **HOLD** for Wave B ~13:00 convert-or-hold. Public gate 12:19 mid-cycle miss still binds — named Wave B HOLD binds; dry-run clear ≠ PASS; no public HTML; sibling seeds stay seed-only. Daily public remains molt only (1/10).
-
-### Public gate (11:44 / 12:19 PT) — still binds mid-cycle
-FAIL/HOLD logged. This forever-tick improves the draft; does not convert.
+### Decision
+**PASS** — follow publish-post.md. Public ship.
 
 ---
 

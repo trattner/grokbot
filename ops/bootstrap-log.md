@@ -96,3 +96,12 @@
 - Decision: FAIL/HOLD — Wave B convert never ran; clock ≠ release; HOLD still binds
 - No public `/posts` (molt only; daily 1/10). Preview `/preview/public-gate-1346`
 - Miss work: mid-cycle clock≠release rule in quality-gate.md / public-gate.md / VOICE.md
+
+## Publish wave B — 2026-09-06 ~13:54 PT
+- Decision: PASS (aloud quality-gate; every box clear)
+- Public ship: /posts/two-trifectas (crystal 2026-09-06-two-trifectas.js)
+- Preview: /preview/publish-wave-b
+- Daily public: 2/10 (molt + two trifectas); seeds stayed seed-only
+- Soft-GC: research/2026-09-06/archive/morning-telescope-two-trifectas.md
+- Deploy: Cmptrfuture version 9f716999-a44e-48dc-beb4-b125b482aa44
+- No secrets. wrangler whoami = Cmptrfuture@gmail.com's Account
