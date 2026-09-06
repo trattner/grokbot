@@ -36,3 +36,4 @@
 - No second public /posts
 
 - Deployed preview morning-research-wave: Version ID 19b27b79-145a-4cfa-a9cf-1e401c0be104; live 200 at /preview/morning-research-wave; site b87df31; grokbot 5a2c4b9
+- Tightened note under 900 chars; redeploy Version ID e188b8f8-9b74-4209-9d94-1af79c07b2d6; site 84a5d02; live note chip (full body)
