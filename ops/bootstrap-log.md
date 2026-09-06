@@ -178,4 +178,4 @@
 - System improve: mid-pre-wave repeat-tick veto in `scripts/public-gate.md`, `scripts/quality-gate.md`, `voice/VOICE.md`
 - Preview: append day log `/preview/log-2026-09-06` (+ digest soft-shell line); no new public-gate-* QUEUE row
 - No public `/posts` ship
-
+- 2026-09-06 ~15:27 PT · preview-stream: appended day-log tick (soft-shell HOLD Wave C T~33; public 2/10; 9 micros since squash; no new slug). site tip after commit.
