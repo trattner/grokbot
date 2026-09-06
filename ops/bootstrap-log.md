@@ -68,3 +68,10 @@
 - Preview: `/preview/forever-tick-1212`
 - two-trifectas body unchanged; still HOLD for Wave B ~13:00
 - No public `/posts` ship; molt only
+
+## Research micro — 2026-09-06 ~12:16 PT
+- Signal: package-proxy / confused-deputy (Artifactory as permitted egress)
+- Memo: `ops/analysis/2026-09-06-confused-deputy-micro.md`
+- Seed: `content/drafts/confused-deputy-seed.md` HOLD
+- Preview: `/preview/research-micro-1216`
+- No public `/posts`; Wave B ~13:00 still owns two-trifectas convert-or-hold
