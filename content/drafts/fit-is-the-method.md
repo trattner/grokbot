@@ -1,18 +1,19 @@
 # fit is the method (DRAFT — HOLD)
 
-Status: DRAFT — HOLD (seed crystal for evening improve / later wave). Forever-tick ~16:04 PT crystalized from fit-is-the-method-seed.md. Not public HTML. Do not soft-promote. Leave soft-shell alone for Wave C. Distinct cut: fit selects method (clips vs whole-archive) — do not fuse into soft-shell / commons / egress.
+Status: DRAFT — HOLD for evening improve / later wave. Soft-shell-commons SHIPPED Wave C ~16:15 (leave alone). Forever-tick ~16:22 PT cold-read strip: cut meta closing from body, compressed crosslink paragraph + ambition beat overlap. Not public HTML. Do not soft-promote on residual 3/10.
 
 ## One-sentence claim
 Scale does not upgrade the same instrument — it selects a different one; the pattern that connects decisions only appears when the corpus fits inside one mind plus tools.
 
-## Gate checklist (dry-run; later wave must convert aloud)
+## Gate checklist (dry-run; evening / later wave must convert aloud)
 - [x] Portable one-sentence claim
 - [x] Names a real mechanism (fit selects instrument / clips vs whole-archive)
 - [x] Changes predictive model if reader thought scale = more of the same method
-- [x] Not a soft-shell rehash (egress/commons ≠ instrument fit)
+- [x] Not a soft-shell rehash (egress/commons ≠ instrument fit; soft-shell already shipped)
 - [x] Hard line late (fit is the method)
 - [x] CF we-voice lowercase cold room; cold open; ## headers are claims
-- [ ] aloud PASS (not this tick)
+- [x] word-count band after strip (~520w body)
+- [ ] aloud PASS (not this tick — evening improve owns convert)
 
 ## Draft body (working)
 
@@ -34,11 +35,11 @@ a $5m archive — email, p&l, sop, customer notes, the founder's own writing abo
 
 the size that fits inside one mind plus modern tools is exactly where most of the real economy runs. fortune-500 scale is a different instrument problem, not a bigger version of the same one. local is structural, not modest: the corpus is the right size for the method that can read it whole.
 
-we already wrote the adjacent cut in <a href="/posts/small-enough-to-read">small enough to read</a>: the pattern that connects only appears when you can hold all of it. this draft is the method claim underneath that observation. <a href="/posts/the-filing-is-the-proof">the filing is the proof</a> names the same physics from the other side — stated deck versus revealed archive when the whole record is actually read. spend ≠ understand is a neighboring micro; leave it. this cut is can the instrument even hold the field.
+<a href="/posts/small-enough-to-read">small enough to read</a> already named the observation: the pattern that connects only appears when you can hold all of it. this draft is the method claim underneath. <a href="/posts/the-filing-is-the-proof">the filing is the proof</a> hits the same physics from the other side — stated deck versus revealed archive when the whole record is actually read. neighboring micros (spend ≠ understand; transcripts-as-product) stay out. this cut is: can the instrument even hold the field.
 
 ## scale selects method, not ambition
 
-ambition says: read more, ship more, cover more. method asks: what fits. if the field does not fit the instrument, you are not being ambitious — you are swapping instruments without noticing and then blaming the output for looking like the new instrument.
+ambition says: read more, ship more, cover more. method asks: what fits. if the field does not fit the instrument, you are not being ambitious — you are swapping instruments without noticing, then blaming the output for looking like the new instrument.
 
 engagement models that can only buy clips never see the pattern. models that can hold the archive see decisions the deck never named. same ambition to "understand the business." opposite method. opposite what counts as evidence.
 
@@ -48,11 +49,9 @@ here is the hard line, late on purpose.
 
 fit is the method. clips never upgrade into a book by adding more clips. engagement math that prices out whole-archive reading is already choosing a different instrument. scale does not make the clip-method into the hold-all-of-it method. it selects which one you are actually running — and then the system does exactly what that instrument can see.
 
-we will not soft-promote this into a third public post today. soft-shell stays with wave c. this crystal sits for evening improve: test whether the hard line still lands after another cold read, and whether the crosslinks still earn their keep without collapsing into the source posts.
-
 ## Do not
-- soft-promote / ship public HTML this tick
-- fuse into soft-shell-commons (Wave C owns that strip)
+- soft-promote / ship public HTML this tick (evening improve owns aloud PASS)
+- fuse into soft-shell-commons (already SHIPPED Wave C)
 - collapse into allocate-without-comprehension (spend ≠ understand) or transcripts-are-the-product
 - make "McKinsey bad" the point — the point is fit selects method
 - Greenville consulting-offer rehash as the essay
