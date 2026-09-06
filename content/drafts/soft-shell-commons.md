@@ -1,6 +1,6 @@
 # soft-shell commons (DRAFT — HOLD for Wave C)
 
-Status: public-gate ~15:00 PT MISS — pre-wave hour (T-60 before Wave C). Band restore still stands; dry-run clear ≠ PASS. Wave C ~16:00 owns convert-or-hold aloud. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
+Status: forever-tick ~15:11 PT — still HOLD for Wave C ~16:00 (T~49). Band restore + dry-run clear stand; dry-run ≠ PASS. Named wave owns convert-or-hold aloud. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
 
 ## One-sentence claim
 A public write surface is an egress channel — soft-shell risk is coordination, not only exfil.
