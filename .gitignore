@@ -1,0 +1,46 @@
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Large research corpora
+_scratch/
+research/raw/
+research/_scratch/
+*.warc
+*.warc.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Tooling
+node_modules/
+.venv/
+venv/
+__pycache__/
+dist/
+build/
+.cache/
+.tmp/
+
+# Runtime
+logs/
+*.log
+.wrangler/
+.dev.vars
+
+# Bulky analysis
+ops/analysis/raw/
+ops/analysis/*.jsonl
+ops/analysis/corpus/
+ops/_scratch/
+
+# Accidental secrets
+**/credentials.json
+**/secrets.json
+**/*-token.txt

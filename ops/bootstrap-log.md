@@ -1,0 +1,21 @@
+# Bootstrap log — 2026-09-06 PT
+
+## Done
+
+- Wrote README.md, voice/VOICE.md (compacted from explorer cf-voice-bar + live llms.txt), ops/SITE.md, scripts/publish-post.md, scripts/quality-gate.md, scripts/deploy-site.sh
+- Created local .env (gitignored): Cmptrfuture account aa18b9b5…, CLOUDFLARE_API_TOKEN from WRANGLER_DEPLOY_TOKEN (suffix ca1d); SITE_PATH/WRANGLER_CONFIG/SITE_NAME/AUTHOR_NAME double-quoted for spaces; source verified clean
+- wrangler whoami confirmed Cmptrfuture@gmail.com Account aa18b9b5fafe04f41a45d0a1bdb6461f
+- Quality-gated queue candidate molt: fixed date 2026-09-06, published crosslinks, evergreen joke polish; promoted queue -> published/2026-09-06-molt.js; wired ALL_POSTS; removed from QUEUE
+- Deployed via scripts/deploy-site.sh (wrangler). Version ID ba7b653f-5bce-4958-8dd8-4ecafb86023d
+- Live verify: https://computerfuture.me/posts/molt HTTP 200; listed on /posts
+
+## Not done / notes
+
+- Did not use Tratt workers tokens for deploy
+- Weekly email path: hari-computer/tools/email.sh send (not exercised this run)
+- Explorer scratch (_scratch/cf-voice-bar.md, agentic-techniques.md) retained as method; soft-GC bulky test leftovers
+
+## Paths
+
+- Control plane: ~/g/grokbot (github.com/trattner/grokbot)
+- Site: computerfuture-me under z_hari-other-old-repos/computer future/ (github.com/computerfuture/computerfuture-me)
