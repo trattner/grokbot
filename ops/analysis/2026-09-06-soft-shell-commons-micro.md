@@ -25,6 +25,7 @@ Not a second public post today. Not a soft-shell sequel that rehashes molt adjec
 
 ## Gate
 
-- Public `/posts`: still molt only. HOLD.
+- SHIPPED Wave C ~16:15 PT → `/posts/soft-shell-commons`. Aloud PASS.
+- Prior note (historical): Public `/posts`: still molt only. HOLD.
 - Feed Wave B (~13:00): keep two-trifectas category-error spine; optional one-line "writable commons = egress" only if strip-test wants it. Do not bolt DseWiki narrative onto the draft.
 - Sources (no secrets): https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ · https://www.collusion.wiki/ · https://computerfuture.me/posts/molt

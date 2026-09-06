@@ -42,6 +42,6 @@ See `scripts/preview-consolidate.md`.
 
 - trattner/grokbot control plane online
 - molt + two-trifectas published
-- soft-shell HOLD (Wave C)
+- soft-shell-commons SHIPPED (Wave C PASS); fit-is-the-method HOLD for evening
 - `/preview` readability: digest + day log primary; ~50+ heartbeats archived
 - deploy credentials: Cmptrfuture only (`CLOUDFLARE_ACCOUNT_ID` + `CLOUDFLARE_API_TOKEN` from grokbot `.env`)

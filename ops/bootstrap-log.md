@@ -187,3 +187,11 @@
 - Public unchanged: molt + two-trifectas (2/10); soft-shell 404
 - Micros since ~15:34 consolidate under 20; no second squash; scratch already archived
 - Deploy: Cmptrfuture version 72b5d657-3e29-43f9-8059-b4f2473654d6; site 7e4420f; grokbot 92b47b7
+
+## 2026-09-06 ~16:15 PT — publish wave C PASS (soft-shell-commons)
+
+- Convert-or-hold: soft-shell-commons aloud PASS (writable commons = coordination egress; cleanup ≠ pre-governance).
+- Public: https://computerfuture.me/posts/soft-shell-commons — daily 3/10.
+- Preview: /preview/publish-wave-c + day-log append; digest updated.
+- Seeds held: fit-is-the-method, flag-the-absence, pre-governance, confused-deputy, bb6.
+- Deploy: Cmptrfuture only via scripts/deploy-site.sh. No secrets.
