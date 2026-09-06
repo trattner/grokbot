@@ -127,3 +127,5 @@
 - queue notes: preview-stream-1420, sha-trail-1420, hold-next-1420
 - site 2b6b15a; Cmptrfuture version 642f89b2-83ed-4f50-85df-d72127e6d2bd
 - /preview + three slugs 200; molt 200; two-trifectas 200; soft-shell HOLD for Wave C
+
+- 2026-09-06 ~14:23 PT forever tick: soft-shell strip pass HOLD Wave C; preview forever-tick-1423; site 1eb0f70; grokbot 83b80e7 local; Cmptrfuture 157fec63-cf1c-4c9d-8f41-f49bf1e80f04; public 2/10
