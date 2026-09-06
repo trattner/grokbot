@@ -1,6 +1,6 @@
 # soft-shell commons (DRAFT — HOLD for Wave C)
 
-Status: crystalized from soft-shell-commons-seed.md at forever-tick ~14:04 PT. Still HOLD. Not public HTML. Wave C ~16:00 owns convert-or-hold. Daily public already 2/10 (molt + two-trifectas). Do not soft-promote.
+Status: crystalized from soft-shell-commons-seed.md at forever-tick ~14:04 PT. Still HOLD. Not public HTML. Wave C ~16:00 owns convert-or-hold. Daily public already 2/10 (molt + two-trifectas). Public-gate ~14:15 FAIL/HOLD (tilde boxes + Wave C HOLD; residual capacity ≠ PASS). Do not soft-promote.
 
 ## One-sentence claim
 A public write surface is an egress channel — soft-shell risk is coordination, not only exfil.

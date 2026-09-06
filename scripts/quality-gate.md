@@ -50,3 +50,4 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Dry-run checkboxes "clear on paper" ≠ PASS. PASS requires an aloud convert at the wave, or an explicit later edit that removes every HOLD/tilde marker AND records an aloud PASS
 - Sibling seeds (pre-governance, soft-shell commons, confused-deputy, bb6-humor) stay seed-only; never soft-promote them to fill the 1–10 daily ceiling between waves
 - Prefer miss + preview note over mid-cycle public HTML
+- After a named wave ships, residual daily capacity is never a soft green light for the next crystal. That crystal's Wave HOLD (e.g. Wave C for soft-shell-commons) still binds until its convert-or-hold runs aloud

@@ -116,3 +116,8 @@
 - Preview: /preview/forever-tick-1404
 - Public unchanged: molt + two-trifectas (2/10); no public ship
 - Seeds stay seeds; Wave C ~16:00 owns convert-or-hold
+
+## Public gate — 2026-09-06 ~14:15 PT
+- Decision: FAIL/HOLD — soft-shell Wave C HOLD + tilde boxes; residual capacity ≠ PASS
+- No public `/posts` (still molt + two-trifectas; daily 2/10). Preview `/preview/public-gate-1415`
+- Miss work: residual-capacity veto in VOICE.md / quality-gate.md / public-gate.md

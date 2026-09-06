@@ -47,6 +47,7 @@ NEAR-PASS is not PASS — public `/posts` needs clear PASS on every box, not a p
 Dry-run checkboxes between named waves are not a convert decision; Wave HOLD still binds.
 Hedging closes that apologize for distribution risk ("we know X / we do not yet know Y") unless load-bearing.
 Named-wave HOLD (e.g. HOLD for Wave B) binds until convert-or-hold runs — clock time alone ≠ release; only a later clear PASS converts.
+Residual daily headroom after a ship (e.g. 2/10) never soft-promotes the next HOLD crystal — that crystal's own wave convert still owns release.
 Generic AI thinkpieces; announcement / engagement bait; funnel language; hedging theater; soft self-help; decorative humor that fails the strip-test; shipping to hit quota; metrics theater; private-path / workshop provenance in openings; naming internal meta-orchestrators on public surfaces.
 
 ## Cadence

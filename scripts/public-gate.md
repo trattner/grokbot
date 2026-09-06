@@ -27,3 +27,4 @@ Follow scripts/publish-post.md end-to-end (promote, ALL_POSTS, deploy, verify `/
 ## Mid-cycle default
 
 Between named publish waves, default is miss. Even a draft with all dry-run boxes checked stays HOLD until Wave convert. Scheduled clock for Wave B/C passing without convert-or-hold does not clear HOLD — public-gate still misses. Do not invent a PASS to justify deploy of /posts.
+Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-shell-commons and any next crystal stay HOLD until their named wave's convert-or-hold; mid-cycle public-gate still misses.
