@@ -155,3 +155,8 @@
 - Seed: `content/drafts/deflection-is-confirmation-seed.md` HOLD
 - Preview: appended to `/preview/log-2026-09-06` + digest line on `/preview/digest-2026-09-06` (heartbeat unlisted; archive under queue/_archive)
 - No public `/posts`; Wave C ~16:00 still owns soft-shell convert-or-hold
+
+## Forever tick — 2026-09-06 ~14:56 PT
+- Slice: soft-shell-commons band restore (## headers + mechanism-only tissue; ~490w); still HOLD Wave C
+- Preview: append `/preview/log-2026-09-06` (no new forever-tick-* slug); digest soft-shell line corrected (pending Wave C)
+- Public unchanged: molt + two-trifectas (2/10); soft-shell 404
