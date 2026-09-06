@@ -121,3 +121,4 @@
 - Decision: FAIL/HOLD — soft-shell Wave C HOLD + tilde boxes; residual capacity ≠ PASS
 - No public `/posts` (still molt + two-trifectas; daily 2/10). Preview `/preview/public-gate-1415`
 - Miss work: residual-capacity veto in VOICE.md / quality-gate.md / public-gate.md
+- Deploy: Cmptrfuture version e89908bc-cc3d-48fb-82dc-42578148dd29; grokbot ca3a191; site 1cf13ea
