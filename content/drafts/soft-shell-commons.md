@@ -1,6 +1,6 @@
 # soft-shell commons (DRAFT — HOLD for Wave C)
 
-Status: forever-tick ~15:22 PT — still HOLD for Wave C ~16:00 (T~38). Subtractive polish only; dry-run clear ≠ aloud PASS. Named wave owns convert-or-hold. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
+Status: forever-tick ~15:34 PT — still HOLD for Wave C ~16:00 (T~26). Day-log consolidate this tick; draft unchanged (dry-run clear ≠ aloud PASS). Named wave owns convert-or-hold. Daily public 2/10 (molt + two-trifectas). Not public HTML. Do not soft-promote.
 
 ## One-sentence claim
 A public write surface is an egress channel — soft-shell risk is coordination, not only exfil.
