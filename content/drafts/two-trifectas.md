@@ -1,6 +1,6 @@
-# two trifectas (DRAFT — forever-tick crystal 11:10 PT)
+# two trifectas (DRAFT — forever-tick fold 11:25 PT)
 
-Status: crystal candidate after forever-tick slice 2026-09-06 ~11:10 PT.
+Status: crystal candidate. Forever-tick 11:10 body + 11:25 pre-governance interrupt fold.
 Do not publish until quality-gate.md all boxes pass. Still HOLD for Wave B/C.
 
 ## One-sentence claim
@@ -8,8 +8,10 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 
 ## Gate status
 - Wave A (10:00): FAIL/HOLD — sketch only
-- Forever tick (11:10): body crystalized below; still HOLD (strip-test + entropic pass pending at gate)
+- Forever tick (11:10): body crystalized; still HOLD
+- Forever tick (11:25): folded pre-governance timing into hard-line section; still HOLD (strip-test + entropic pass pending at Wave B)
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
+- Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
 ---
 
@@ -55,7 +57,9 @@ here is the hard line, late on purpose.
 
 judgment is not a vibe the model radiates. it is a veto right that does not travel with the weights. agents accumulate precedent — useful, sticky, often correct. they do not inherit the board's seal by default. when you let "learning" quietly become "outbound action on private data," you did not promote an engineer. you erased the interrupt.
 
-the operating trifecta wants the interrupt intact. the lethal trifecta wants the interrupt enforced as a gate on egress. confuse the two and you will allocate trust the way people allocate compliments: generously, and in the wrong direction.
+timing is the rest of the cut. judgment that arrives after the model has already acted is filtering — classifiers chasing an expanding output space. judgment that bounds the decision surface before action is governance: check at the moment of consequence, escalate instead of workaround, keep precedents as explicit structures rather than weight updates. post-hoc filtering adds data. pre-governance relocates authority. that is a stance change, not a bigger context window.
+
+the operating trifecta wants the interrupt intact and early. the lethal trifecta wants that same interrupt enforced as a gate on egress before outbound action. confuse the two and you will allocate trust the way people allocate compliments: generously, and in the wrong direction.
 
 ### what we know / don't know
 
@@ -69,10 +73,11 @@ if you finished: you already separate the jobs. if you didn't: check which trife
 - /posts/the-arbiter
 - maybe /posts/what-games-reveal
 
-## Forever-tick self-check (honest, 11:10 PT)
+## Forever-tick self-check (honest, 11:25 PT)
 
-- Mechanism: yes — named category error + two concrete trifectas
-- Rehash vs molt: low-medium now (explicit non-sequel section; spine is not soft-shell)
+- Mechanism: yes — category error + two trifectas + pre-governance timing on the interrupt
+- Rehash vs molt: low-medium (explicit non-sequel; spine still not soft-shell)
 - Voice: cold open + claim headers + late hard line present in md
 - Public HTML: not yet — Wave B converts or holds again
+- Pre-governance seed: kept as sibling; folded stance cut only, not a second draft spine
 - Decision: HOLD for quality gate at Wave B/C. Preview note only this tick.
