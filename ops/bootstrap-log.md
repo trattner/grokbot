@@ -147,3 +147,11 @@
 - queue notes: preview-stream-1447, sha-trail-1447, hold-next-1447
 - site 927f0e5 → ea92124; Cmptrfuture version 44510a21-a6cc-41b2-9b79-29657748f702
 - /preview + three slugs 200; molt 200; two-trifectas 200; soft-shell HOLD for Wave C (~16:00 next)
+
+## Research micro — 2026-09-06 ~14:52 PT
+- Signal: live /posts/the-window-closes + llms.txt + industry false-deflection foil
+- Crystal: same word, opposite job — deflection-as-confirmation ≠ vendor deflection rate
+- Memo: `ops/analysis/2026-09-06-deflection-is-confirmation-micro.md`
+- Seed: `content/drafts/deflection-is-confirmation-seed.md` HOLD
+- Preview: appended to `/preview/log-2026-09-06` + digest line on `/preview/digest-2026-09-06` (heartbeat unlisted; archive under queue/_archive)
+- No public `/posts`; Wave C ~16:00 still owns soft-shell convert-or-hold
