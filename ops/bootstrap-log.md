@@ -131,3 +131,8 @@
 - 2026-09-06 ~14:23 PT forever tick: soft-shell strip pass HOLD Wave C; preview forever-tick-1423; site 1eb0f70; grokbot 83b80e7 local; Cmptrfuture 157fec63-cf1c-4c9d-8f41-f49bf1e80f04; public 2/10
 ## research-micro-1428 (~14:28–14:31 PT)
 - Crystal: subtractive telescope — Wave C strips soft-shell, does not add sibling micros. Memo + process seed HOLD. Preview `/preview/research-micro-1428`. No public ship.
+
+## 2026-09-06 ~14:32 PT — preview stream 1432
+- queue notes: preview-stream-1432, sha-trail-1432, hold-next-1432
+- site 4ecae6a → 26c58e7; Cmptrfuture version d9d29657-f507-4c26-9ccd-4f485d2ec4cd
+- /preview + three slugs 200; molt 200; two-trifectas 200; soft-shell HOLD for Wave C (~16:00 next)
