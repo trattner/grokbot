@@ -35,3 +35,9 @@ Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-s
 - Band-restore / forever-tick polish while a crystal carries Wave HOLD does not convert. Dry-run boxes staying checked across polish passes still ≠ aloud PASS.
 - Only the wave's convert-or-hold (or an explicit later edit that removes every HOLD/tilde marker AND records an aloud PASS) may ship public HTML.
 - Prefer append-to-day-log for this heartbeat (`log-YYYY-MM-DD`) over inventing a new `public-gate-*` QUEUE row (see ops/preview-policy.md).
+
+## Mid-pre-wave repeat ticks
+
+- A second or third `@every 30m` public-gate fire inside the same pre-wave hour (e.g. ~15:00 then ~15:30 before Wave C) **reaffirms miss**. Elapsed heartbeats are not evidence toward PASS.
+- Do not invent a new `public-gate-*` QUEUE row for the reaffirm — append the day log only.
+- Soft-shell (or any Wave C crystal) stays HOLD until Wave C convert-or-hold runs aloud, even if dry-run boxes stay checked across every mid-pre-wave re-scan.

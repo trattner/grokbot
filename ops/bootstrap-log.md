@@ -169,3 +169,13 @@
 - System improve: `scripts/public-gate.md` pre-wave hour veto; `scripts/quality-gate.md` pre-wave polish ≠ PASS; `voice/VOICE.md` anti-pattern line
 - Preview: append day log `/preview/log-2026-09-06` (+ digest soft-shell line); no new public-gate-* QUEUE row
 - No public `/posts` ship
+
+## Public gate — 2026-09-06 ~15:20 PT
+
+- Candidates: soft-shell-commons.md (HOLD Wave C T~40), sibling seeds seed-only, two-trifectas shipped
+- Daily public **2/10** (molt + two-trifectas) — under cap, still miss
+- Decision: **MISS** — mid-pre-wave re-scan; elapsed ticks since ~15:00 ≠ PASS
+- System improve: mid-pre-wave repeat-tick veto in `scripts/public-gate.md`, `scripts/quality-gate.md`, `voice/VOICE.md`
+- Preview: append day log `/preview/log-2026-09-06` (+ digest soft-shell line); no new public-gate-* QUEUE row
+- No public `/posts` ship
+

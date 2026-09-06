@@ -57,3 +57,8 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Forever-tick band restores, subtractive telescopes, and dry-run checkbox refreshes during a named-wave HOLD do not convert the crystal.
 - Clock proximity to the wave (T-60…T-0) never substitutes for convert-or-hold.
 - Soft-shell-commons (and any Wave C crystal) stays HOLD until Wave C runs aloud — residual daily capacity after Wave A/B ships is irrelevant.
+
+## Mid-pre-wave re-scan ≠ convert
+
+- Repeat public-gate ticks inside T-60…T-0 do not accumulate toward PASS.
+- Clock countdown (T-40, T-20, …) never substitutes for the named wave's aloud convert-or-hold.
