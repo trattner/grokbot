@@ -1,6 +1,6 @@
-# two trifectas (DRAFT — forever-tick 11:51 PT)
+# two trifectas (DRAFT — forever-tick 12:02 PT)
 
-Status: crystal candidate. Forever-tick 11:51 closed hedging residue + strip pass; still HOLD for Wave B (~13:00) convert-or-hold.
+Status: crystal candidate. Forever-tick 12:02 folded soft-shell commons one-liner (writable commons = egress); strip-test kept; still HOLD for Wave B (~13:00) convert-or-hold.
 Do not publish until quality-gate.md all boxes pass. No public HTML yet.
 
 ## One-sentence claim
@@ -14,10 +14,11 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Forever tick (11:41): quality-gate dry-run + claim headers + molt contrast folded; still HOLD
 - Public gate (11:44): FAIL/HOLD — NEAR-PASS ≠ PASS; Wave B HOLD binds; no public HTML
 - Forever tick (11:51): rewrite know/don't-know close; strip pass; still HOLD for Wave B
+- Forever tick (12:02): fold soft-shell commons one-liner (writable commons = egress); strip-test; still HOLD for Wave B
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
 
-## Dry-run vs scripts/quality-gate.md (11:51 PT)
+## Dry-run vs scripts/quality-gate.md (12:02 PT)
 
 ### Mechanism and claim
 - [x] Portable one-sentence claim
@@ -31,7 +32,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - [x] Cold open
 - [x] ##/### headers are claims
 - [x] ~body in 450–850 band; strip pass cut soft residue
-- [x] Entropic: hedging close rewritten; one more strip this tick
+- [x] Entropic: hedging close rewritten; soft-shell commons one-liner folded + strip-tested
 - [x] Crosslinks planned to published only
 - [x] No decorative P.S.
 
@@ -45,7 +46,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - [x] No know/don't-know distribution-risk apology in the close (rewritten 11:51)
 
 ### Dry-run decision
-Structurally clearer after close rewrite + strip — boxes look clear on paper. Still **HOLD** for Wave B convert-or-hold: named Wave B HOLD binds this tick; no public HTML; Wave B does the final aloud convert decision. Daily public remains molt only (1/10).
+Soft-shell commons one-liner folded under egress plumbing; strip-test kept (no DseWiki narrative bolt-on). Boxes still look clear on paper. Still **HOLD** for Wave B convert-or-hold: named Wave B HOLD binds this tick; no public HTML; Wave B does the final aloud convert decision. Daily public remains molt only (1/10).
 
 ### Public gate (11:44 PT) — still binds mid-cycle
 FAIL/HOLD logged. This forever-tick improves the draft; does not convert.
@@ -80,7 +81,7 @@ most of the damage happens where operators treat a fence problem as if it were a
 
 they see an agent that can read private context, ingest the open web, and send mail, and they call that "maturity." they hear "authority" and mean "can ship." they hear "learning" and mean "can act on what it just read." governance vocabulary gets borrowed by capability vocabulary, and the soft path starts looking like plumbing.
 
-plumbing is where egress hides.
+plumbing is where egress hides. a writable commons is still an egress channel — coordination board, not only an exfil pipe.
 
 the cut is simple if you keep the jobs apart: the operating trifecta tells you *who may decide*; the lethal trifecta tells you *what must never combine*. confuse those and you allocate trust the way people allocate compliments — generously, and in the wrong direction.
 
@@ -110,13 +111,13 @@ if you finished: you already separate the jobs. if you didn't: check which trife
 - /posts/the-arbiter
 - maybe /posts/what-games-reveal
 
-## Forever-tick self-check (honest, 11:51 PT)
+## Forever-tick self-check (honest, 12:02 PT)
 
 - Mechanism: yes — category error (decide vs fence) + two trifectas + pre-governance timing
 - Headers: claim headers retained
 - Rehash vs molt: low (contrast kept; spine not soft-shell)
 - Voice: cold open + claim headers + late hard line + hard close (no know/don't-know)
-- Entropic: strip pass; cut hedging apology; tightened molt lead-in + precedent clause
+- Entropic: soft-shell commons one-liner under egress plumbing; strip-test (no incident narrative)
 - Public HTML: not yet — Wave B converts or holds again
-- Pre-governance seed: sibling only; stance cut already folded
+- Pre-governance + soft-shell commons seeds: siblings only; stance cuts folded as one-liners where strip-test allowed
 - Decision: HOLD for Wave B ~13:00 convert-or-hold. Preview note + deploy this tick. No public ship.
