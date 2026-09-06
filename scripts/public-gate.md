@@ -26,4 +26,4 @@ Follow scripts/publish-post.md end-to-end (promote, ALL_POSTS, deploy, verify `/
 
 ## Mid-cycle default
 
-Between named publish waves, default is miss. Even a draft with all dry-run boxes checked stays HOLD until Wave convert. Do not invent a PASS to justify deploy of /posts.
+Between named publish waves, default is miss. Even a draft with all dry-run boxes checked stays HOLD until Wave convert. Scheduled clock for Wave B/C passing without convert-or-hold does not clear HOLD — public-gate still misses. Do not invent a PASS to justify deploy of /posts.

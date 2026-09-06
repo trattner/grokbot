@@ -46,7 +46,7 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 
 ## Mid-cycle public-gate (extra veto)
 
-- Named-wave HOLD (Wave A/B/C) binds every intervening public-gate tick until that wave's convert-or-hold runs
-- Dry-run checkboxes "clear on paper" ≠ PASS. PASS requires an aloud convert decision at the wave (or an explicit later edit that removes every tilde / HOLD marker)
+- Named-wave HOLD (Wave A/B/C) binds until that wave's convert-or-hold actually runs — scheduled clock time alone does not release it (post-schedule public-gate still misses)
+- Dry-run checkboxes "clear on paper" ≠ PASS. PASS requires an aloud convert at the wave, or an explicit later edit that removes every HOLD/tilde marker AND records an aloud PASS
 - Sibling seeds (pre-governance, soft-shell commons, confused-deputy, bb6-humor) stay seed-only; never soft-promote them to fill the 1–10 daily ceiling between waves
 - Prefer miss + preview note over mid-cycle public HTML

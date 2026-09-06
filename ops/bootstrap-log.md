@@ -91,3 +91,8 @@
 - Seed: `content/drafts/decision-boundary-seed.md` HOLD
 - Preview: `/preview/research-micro-1231`
 - No public `/posts`; Wave B ~13:00 still owns two-trifectas convert-or-hold
+
+## Public gate — 2026-09-06 ~13:46 PT
+- Decision: FAIL/HOLD — Wave B convert never ran; clock ≠ release; HOLD still binds
+- No public `/posts` (molt only; daily 1/10). Preview `/preview/public-gate-1346`
+- Miss work: mid-cycle clock≠release rule in quality-gate.md / public-gate.md / VOICE.md

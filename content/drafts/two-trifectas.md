@@ -17,6 +17,7 @@ There are two trifectas in circulation; mistaking the operating one for the atta
 - Forever tick (12:02): fold soft-shell commons one-liner (writable commons = egress); strip-test; still HOLD for Wave B
 - Forever tick (12:12): research compact only (midday map + scratch GC); draft body untouched; still HOLD for Wave B
 - Public gate (12:19): FAIL/HOLD — Wave B HOLD still binds (~13:00); mid-cycle dry-run ≠ PASS; no public HTML; seeds stay seed-only
+- Public gate (13:46): FAIL/HOLD — Wave B never ran; HOLD still binds; no public HTML
 - Forever tick (12:26): draft-improve — compress molt-contrast to category-error cut; strip compliment simile; soft-shell one-liner kept; still HOLD for Wave B
 - Rehash vs molt: deliberately not soft-shell sequel — spine is category error, not vulnerability window
 - Sibling seed: content/drafts/pre-governance-seed.md (do not ship alone)
