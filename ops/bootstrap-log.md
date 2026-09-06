@@ -55,3 +55,8 @@
 - Preview note: `/preview/public-gate-1144` (wired QUEUE_POSTS newest-first)
 - System improve: `voice/VOICE.md` NEAR-PASS rules; `scripts/quality-gate.md` ship rules; new `scripts/public-gate.md`
 - Deployed: Version ID 800fa06d-ef94-4b8a-9d76-93cc168033d0; live 200
+
+## 2026-09-06 ~12:09 PT — preview stream 1209
+- queue notes: preview-stream-1209, sha-trail-1209, hold-next-1209
+- site 3bb7698; Cmptrfuture version 199e482b-0334-408e-bbd7-25d48e4eb1f9
+- /preview + three slugs 200; molt 200; two-trifectas 404 HOLD
