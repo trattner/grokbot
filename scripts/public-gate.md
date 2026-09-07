@@ -234,3 +234,12 @@ Post-~07:12 continuous Mac-blocked re-scan (after public-gate ~07:12 + forever-t
 - Live tip still ~18:31 on log-2026-09-06; log-2026-09-07 404; fit-is-the-method 404 = BLOCKED miss.
 - Fresh-day Sep 7 0/10 headroom never soft-promotes. Append day-log only; no new public-gate-* QUEUE row.
 - Prefer real ship when Mac returns.
+
+## Post-~08:18 daily-cap-full residual (extra veto)
+
+- After forever ~08:04 shipped `fit-is-the-method` and a concurrent writer filled Sep 7 public to **10/10** (live 200 on ten `2026-09-07-*` posts) with `/preview/effort` consolidating the day story, later `@every 30m` public-gate ticks (e.g. ~08:28) **miss** any 11th `/posts` ship.
+- Daily cap = 10 binds hard. Exhausted headroom is never a soft green light for residual seeds.
+- Residual HOLD seeds (`deflection-is-confirmation`, `score-is-not-deployability`, `return-is-the-filter`, `loose-window`, and overnight siblings) stay HOLD — seed/HOLD ≠ PASS; preview `/effort` ≠ public essay.
+- Mac `ListMachines` empty after ~08:25 disconnect: cannot land patches / push `trattner/grokbot` / deploy Cmptrfuture this tick — stage box package only; do not invent public HTML.
+- Prefer append into day-log / effort note when Mac returns — no new `public-gate-*` QUEUE slug.
+- Prefer fewer bangers tomorrow over filling past 10 today.

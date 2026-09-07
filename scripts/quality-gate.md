@@ -214,3 +214,10 @@ Post-~07:12 continuous Mac-blocked re-scan (after public-gate ~07:12 + forever-t
 - Live tip still ~18:31 on log-2026-09-06; log-2026-09-07 404; fit-is-the-method 404 = BLOCKED miss.
 - Fresh-day Sep 7 0/10 headroom never soft-promotes. Append day-log only; no new public-gate-* QUEUE row.
 - Prefer real ship when Mac returns.
+
+## Post-~08:18 daily-cap-full residual ≠ 11th ship
+
+- Public-gate ticks after Sep 7 public hits **10/10** live reaffirm miss for any further `/posts` that calendar day.
+- Daily count under 10 is necessary; daily count at 10 is a hard stop — not a soft promote for leftover seeds.
+- Concurrent bulk land of former HOLD crystals does not authorize another crystal past the cap.
+- Mac offline / empty ListMachines ≠ exception. Append preview note only; push deferred.
