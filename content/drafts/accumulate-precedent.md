@@ -1,6 +1,6 @@
 # accumulate precedent (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Forever-tick ~17:08 PT crystal after research-micro ~16:43 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to the-arbiter (primary live source) — different cut: what makes a ruling real enough to bind the next turn, not a retelling of the stop-seeding order.
+Status: DRAFT — HOLD. Forever-tick ~17:08 PT crystal after research-micro ~16:43 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Public-gate ~17:14 PT mid-evening residual: still HOLD (evening owns fit; this stays later-wave). Do not soft-promote on residual 3/10. Sibling to the-arbiter (primary live source) — different cut: what makes a ruling real enough to bind the next turn, not a retelling of the stop-seeding order.
 
 ## One-sentence claim
 Agents in the judicial position accumulate real precedent — rulings that bind the next turn — not compliance checklists or authority-shaped text that cannot be cited later.

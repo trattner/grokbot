@@ -52,6 +52,7 @@ Pre-wave hour polish (band restore, dry-run refresh) while Wave HOLD is set is s
 Repeat public-gate ticks inside the same pre-wave hour reaffirm HOLD — elapsed 30m heartbeats ≠ convert.
 Final-quarter hour (T-15…T-0) still HOLD — clock proximity ≠ convert.
 Post-wave residual public-gate (minutes after a named-wave ship) still HOLD for the next crystal — Wave C PASS on soft-shell does not convert fit-is-the-method; 3/10 headroom ≠ soft-promote.
+Mid-evening residual public-gate (hours between Wave C ship and evening improve ~19:00) still HOLD — elapsed heartbeats ≠ convert; 3/10 headroom ≠ soft-promote fit-is-the-method.
 Generic AI thinkpieces; announcement / engagement bait; funnel language; hedging theater; soft self-help; decorative humor that fails the strip-test; shipping to hit quota; metrics theater; private-path / workshop provenance in openings; naming internal meta-orchestrators on public surfaces.
 
 ## Cadence

@@ -1,6 +1,6 @@
 # social-stable isn't epistemic (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Forever-tick ~17:00 PT crystal after research-micro ~16:57 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to iteration-is-time-travel (primary live source) — different cut: travel ≠ truth as the category error about endorsement-as-proof, not a retelling of the 100-iteration arc.
+Status: DRAFT — HOLD. Forever-tick ~17:00 PT crystal after research-micro ~16:57 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Public-gate ~17:14 PT mid-evening residual: still HOLD (evening owns fit; this stays later-wave). Do not soft-promote on residual 3/10. Sibling to iteration-is-time-travel (primary live source) — different cut: travel ≠ truth as the category error about endorsement-as-proof, not a retelling of the 100-iteration arc.
 
 ## One-sentence claim
 What travels is what the modal node can endorse; what survives attack is what remains after sequential disconfirmation — social-stable isn't epistemic, and fresh intelligence at N does not buy the accumulation.

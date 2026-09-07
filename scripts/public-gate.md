@@ -49,3 +49,10 @@ Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-s
 - Wave C PASS on soft-shell-commons does **not** convert `fit-is-the-method` (or flag-the-absence / sibling seeds). Residual daily capacity (e.g. 3/10) is never a soft green light.
 - Dry-run boxes checked on the next crystal ≠ aloud PASS. Evening improve / a later named wave owns convert-or-hold.
 - Append the miss to `log-YYYY-MM-DD` only — no new `public-gate-*` QUEUE row.
+
+## Mid-evening residual (extra veto)
+
+- Hours between a named-wave afternoon ship (e.g. Wave C ~16:00) and evening improve (~19:00) still **miss**.
+- Elapsed `@every 30m` heartbeats after post-wave residual do not accumulate toward PASS.
+- `fit-is-the-method` (and sibling HOLD crystals) stay HOLD until evening improve / a later named wave runs aloud convert-or-hold.
+- Residual daily capacity (e.g. 3/10) remains never sufficient. Append day-log only — no new `public-gate-*` QUEUE row.

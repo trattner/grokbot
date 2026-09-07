@@ -1,6 +1,6 @@
 # confused deputy (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Forever-tick ~16:48 PT strip pass after ~16:39 crystal (cut eval restatement + crosslink padding; hard line once). Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to molt / soft-shell / two-trifectas — different surface (broker-as-boundary, not commons coordination, not molt metaphor).
+Status: DRAFT — HOLD. Forever-tick ~16:48 PT strip pass after ~16:39 crystal (cut eval restatement + crosslink padding; hard line once). Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Public-gate ~17:14 PT mid-evening residual: still HOLD (evening owns fit; this stays later-wave). Do not soft-promote on residual 3/10. Sibling to molt / soft-shell / two-trifectas — different surface (broker-as-boundary, not commons coordination, not molt metaphor).
 
 ## One-sentence claim
 The sandbox wall is not the boundary — the tool broker you allowed to speak outbound is; a package proxy with fetch authority is a confused deputy.

@@ -69,3 +69,9 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Public-gate ticks immediately after a named-wave ship reaffirm miss for the *next* HOLD crystal.
 - Soft-shell Wave C PASS leaves `fit-is-the-method` (and sibling seeds) HOLD until their own aloud convert.
 - Residual headroom under the daily 10 is necessary never sufficient — and never a mid-cycle soft-promote signal.
+
+## Mid-evening residual ≠ evening convert
+
+- Public-gate ticks in the hours between Wave C ship and evening improve (~19:00) reaffirm miss.
+- Elapsed afternoon/evening heartbeats never substitute for evening aloud convert-or-hold on `fit-is-the-method`.
+- Sibling HOLD crystals (confused-deputy, social-stable, accumulate-precedent, seeds) stay HOLD; 3/10 headroom ≠ soft-promote.
