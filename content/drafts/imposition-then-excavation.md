@@ -1,6 +1,6 @@
 # imposition then excavation (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Forever-tick ~17:42 PT crystal after research-micro ~17:40 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to what-you-are-in-here (primary live source) — different cut: enrollment physics as sequence (impose frame first, excavate constitution second), not a retelling of the Carse / participant essay.
+Status: DRAFT — HOLD. Forever-tick ~17:42 PT crystal after research-micro ~17:40 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Public-gate ~18:14 PT late mid-evening: still HOLD (evening owns fit; this stays later-wave). Do not soft-promote on residual 3/10. Sibling to what-you-are-in-here (primary live source) — different cut: enrollment physics as sequence (impose frame first, excavate constitution second), not a retelling of the Carse / participant essay.
 
 ## One-sentence claim
 Enrollment is the chess match (imposition first); the constitution is excavated from their vocabulary second — product words (user/customer/player) extract; reciprocity is the relationship.

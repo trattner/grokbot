@@ -1,6 +1,6 @@
 # fit is the method (DRAFT — HOLD)
 
-Status: DRAFT — HOLD for evening improve / later wave. Soft-shell-commons SHIPPED Wave C ~16:15 (leave alone). Forever-tick ~16:30 PT surgical polish: tightened mid crosslink (cut neighboring-micros workshop meta); light ambition/hard-line de-echo. Public-gate ~16:53 PT post-wave residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote). Not public HTML. Public-gate ~17:14 PT mid-evening residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote; evening ~19:00 owns convert).
+Status: DRAFT — HOLD for evening improve / later wave. Soft-shell-commons SHIPPED Wave C ~16:15 (leave alone). Forever-tick ~16:30 PT surgical polish: tightened mid crosslink (cut neighboring-micros workshop meta); light ambition/hard-line de-echo. Public-gate ~16:53 PT post-wave residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote). Not public HTML. Public-gate ~17:14 PT mid-evening residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote; evening ~19:00 owns convert). Public-gate ~18:14 PT late mid-evening (T~45 before evening): still HOLD (clock proximity ≠ convert; dry-run ≠ aloud PASS; 3/10 ≠ soft-promote; evening ~19:00 owns convert).
 
 ## One-sentence claim
 Scale does not upgrade the same instrument — it selects a different one; the pattern that connects decisions only appears when the corpus fits inside one mind plus tools.

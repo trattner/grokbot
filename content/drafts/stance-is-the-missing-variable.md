@@ -1,6 +1,6 @@
 # stance is the missing variable (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Forever-tick ~17:34 PT crystal after research-micro ~17:30 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to the-position-problem (primary live source) — different cut: stance as the missing upgrade variable (same observational stance → same structured errors), not a retelling of the Laplace/position arc.
+Status: DRAFT — HOLD. Forever-tick ~17:34 PT crystal after research-micro ~17:30 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Public-gate ~18:14 PT late mid-evening: still HOLD (evening owns fit; this stays later-wave). Do not soft-promote on residual 3/10. Sibling to the-position-problem (primary live source) — different cut: stance as the missing upgrade variable (same observational stance → same structured errors), not a retelling of the Laplace/position arc.
 
 ## One-sentence claim
 Stance is the missing variable — more data through the same observational stance reproduces the same structured errors; the demon fails from missing self-knowledge, not missing particles.

@@ -1,6 +1,6 @@
 # ratio is the company (DRAFT — HOLD)
 
-Status: DRAFT — HOLD. Forever-tick ~17:25 PT crystal after research-micro ~17:16 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Do not soft-promote on residual 3/10. Sibling to the-ratio (primary live source) — different cut: compression as the firm itself vs feature-add inflation, not a retelling of the Discord session.
+Status: DRAFT — HOLD. Forever-tick ~17:25 PT crystal after research-micro ~17:16 seed. Soft-shell-commons SHIPPED Wave C; fit-is-the-method owns evening convert ~19:00. Not public HTML. Public-gate ~18:14 PT late mid-evening: still HOLD (evening owns fit; this stays later-wave). Do not soft-promote on residual 3/10. Sibling to the-ratio (primary live source) — different cut: compression as the firm itself vs feature-add inflation, not a retelling of the Discord session.
 
 ## One-sentence claim
 The ratio is the company — human direction/authority/signal compressed into infrastructure that compounds; feature-add without that compression is root-level inflation.

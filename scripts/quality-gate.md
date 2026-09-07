@@ -75,3 +75,9 @@ Match voice/VOICE.md. All boxes required to publish. Cron may propose; this veto
 - Public-gate ticks in the hours between Wave C ship and evening improve (~19:00) reaffirm miss.
 - Elapsed afternoon/evening heartbeats never substitute for evening aloud convert-or-hold on `fit-is-the-method`.
 - Sibling HOLD crystals (confused-deputy, social-stable, accumulate-precedent, seeds) stay HOLD; 3/10 headroom ≠ soft-promote.
+
+## Late mid-evening ≠ evening convert
+
+- Public-gate ticks inside T-60…T-0 before evening improve (~19:00) reaffirm miss.
+- Clock proximity to evening never substitutes for evening aloud convert-or-hold on `fit-is-the-method`.
+- Mid-evening elapsed heartbeats still ≠ PASS; 3/10 headroom ≠ soft-promote; sibling HOLD crystals stay HOLD.

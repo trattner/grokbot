@@ -56,3 +56,11 @@ Post-wave residual capacity (daily count under 10 after a ship) ≠ PASS. Soft-s
 - Elapsed `@every 30m` heartbeats after post-wave residual do not accumulate toward PASS.
 - `fit-is-the-method` (and sibling HOLD crystals) stay HOLD until evening improve / a later named wave runs aloud convert-or-hold.
 - Residual daily capacity (e.g. 3/10) remains never sufficient. Append day-log only — no new `public-gate-*` QUEUE row.
+
+## Late mid-evening / approaching evening (extra veto)
+
+- An `@every 30m` public-gate fire inside the hour before evening improve (T-60…T-0, e.g. ~18:00–19:00) still **misses**.
+- Clock proximity to evening (~19:00) does not convert HOLD. Being forty-five minutes out is still miss — same physics as pre-wave T-60…T-0.
+- Dry-run boxes checked on `fit-is-the-method` ≠ aloud PASS. Evening improve owns convert-or-hold.
+- Elapsed mid-evening heartbeats (~17:14 → ~18:14) do not accumulate toward PASS. Residual 3/10 headroom remains never sufficient.
+- Sibling HOLD crystals stay HOLD. Append day-log only — no new `public-gate-*` QUEUE row.
