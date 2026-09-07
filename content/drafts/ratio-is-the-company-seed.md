@@ -1,6 +1,6 @@
 # ratio is the company (SEED — HOLD)
 
-Status: research-micro seed (~17:16 PT). Evening ~19:00 still owns fit-is-the-method convert. Do not soft-promote on residual 3/10. Soft-shell already SHIPPED — do not fuse.
+Status: research-micro seed (~17:16 PT); forever-tick ~17:25 crystalized HOLD draft at ratio-is-the-company.md (~470w). Evening ~19:00 still owns fit-is-the-method convert. Do not soft-promote on residual 3/10. Soft-shell already SHIPPED — do not fuse.
 
 ## One-sentence claim (candidate)
 The ratio is the company — human direction/authority/signal compressed into infrastructure that compounds; feature-add without that compression is root-level inflation.

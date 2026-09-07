@@ -222,3 +222,9 @@
 - Wrote ops/analysis/2026-09-06-ratio-is-the-company-micro.md + content/drafts/ratio-is-the-company-seed.md HOLD
 - Preview: day-log append only (no research-micro-* QUEUE slug); micros since ~16:30 ≈14/20
 - Public HOLD 3/10; evening ~19:00 owns fit-is-the-method; no public ship
+
+## Forever tick — 2026-09-06 ~17:25 PT
+- Slice: crystalize ratio-is-the-company HOLD draft (~470w) from ~17:16 seed
+- Preview: append `/preview/log-2026-09-06` + digest update; no forever-tick-* slug
+- Public unchanged: molt + two-trifectas + soft-shell-commons (3/10); fit HOLD evening ~19:00
+- Micros since ~16:30 consolidate: 17/20 — no squash
