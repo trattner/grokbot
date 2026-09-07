@@ -228,3 +228,4 @@
 - Preview: append `/preview/log-2026-09-06` + digest update; no forever-tick-* slug
 - Public unchanged: molt + two-trifectas + soft-shell-commons (3/10); fit HOLD evening ~19:00
 - Micros since ~16:30 consolidate: 17/20 — no squash
+- site 83c4732; grokbot 232d0ef; Cmptrfuture version 9c7cb2ed-fdfe-4aff-96c5-6ecae438cf6f
