@@ -240,3 +240,11 @@
 
 ## forever-tick ~17:34 PT 2026-09-06
 - stance-is-the-missing-variable crystal HOLD (~448w); third day-log consolidate; digest refresh; micros 0/20 post-consolidate; fit HOLD evening; public 3/10; no public ship; Cmptrfuture deploy 8c2cb641-273f-40e3-9162-50aa3332b88a; site 6585e19; grokbot 334e019.
+
+
+## Research micro — 2026-09-06 ~17:40 PT
+- Signal: live what-you-are-in-here + llms.txt
+- Memo: `ops/analysis/2026-09-06-imposition-then-excavation-micro.md`
+- Seed: `content/drafts/imposition-then-excavation-seed.md` HOLD
+- Preview: day-log append `/preview/log-2026-09-06` (no new research-micro-* QUEUE row)
+- Public stays 3/10; evening owns fit-is-the-method
