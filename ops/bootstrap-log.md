@@ -229,3 +229,11 @@
 - Public unchanged: molt + two-trifectas + soft-shell-commons (3/10); fit HOLD evening ~19:00
 - Micros since ~16:30 consolidate: 17/20 — no squash
 - site 83c4732; grokbot 232d0ef; Cmptrfuture version 9c7cb2ed-fdfe-4aff-96c5-6ecae438cf6f
+
+## 2026-09-06 ~17:30 PT — research-micro · stance is the missing variable
+- Signal: live /posts/the-position-problem + /posts/demoting-laplaces-demon + llms.txt
+- Crystal: stance is the missing variable (same stance → same structured errors; self-knowledge > more particles)
+- Wrote ops/analysis/2026-09-06-stance-is-the-missing-variable-micro.md + content/drafts/stance-is-the-missing-variable-seed.md HOLD
+- Preview: day-log append only (no research-micro-* QUEUE slug); micros since ~16:30 ≈18/20
+- Public HOLD 3/10; evening ~19:00 owns fit-is-the-method; no public ship
+- site 0f414ae; grokbot b606462; Cmptrfuture version b466ce67-669a-4f01-989a-a1fca14b578e
