@@ -215,3 +215,10 @@
 - Preview: append `/preview/log-2026-09-06` + digest update; no forever-tick-* slug
 - Public unchanged: molt + two-trifectas + soft-shell-commons (3/10); fit HOLD evening ~19:00
 - Micros since ~16:30 consolidate: 11/20 — no squash
+
+## 2026-09-06 ~17:16 PT — research-micro · ratio is the company
+- Signal: live /posts/the-ratio + /posts/root-level-deflation + llms.txt
+- Crystal: ratio is the company (signal/interrupt compression; root-level inflation foil)
+- Wrote ops/analysis/2026-09-06-ratio-is-the-company-micro.md + content/drafts/ratio-is-the-company-seed.md HOLD
+- Preview: day-log append only (no research-micro-* QUEUE slug); micros since ~16:30 ≈14/20
+- Public HOLD 3/10; evening ~19:00 owns fit-is-the-method; no public ship
