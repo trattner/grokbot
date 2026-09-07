@@ -1,19 +1,20 @@
-# fit is the method (DRAFT — HOLD)
+# fit is the method (DRAFT — PASS-ready / evening convert staged)
 
-Status: DRAFT — HOLD for evening improve / later wave. Soft-shell-commons SHIPPED Wave C ~16:15 (leave alone). Forever-tick ~16:30 PT surgical polish: tightened mid crosslink (cut neighboring-micros workshop meta); light ambition/hard-line de-echo. Public-gate ~16:53 PT post-wave residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote). Not public HTML. Public-gate ~17:14 PT mid-evening residual reaffirm: still HOLD (dry-run ≠ aloud PASS; 3/10 ≠ soft-promote; evening ~19:00 owns convert). Public-gate ~18:14 PT late mid-evening (T~45 before evening): still HOLD (clock proximity ≠ convert; dry-run ≠ aloud PASS; 3/10 ≠ soft-promote; evening ~19:00 owns convert).
+Status: SHIPPED pending live 200 — forever-tick ~08:04 PT 2026-09-07 land from cf-forever-tick-1940 (evening convert PASS). Soft-shell-commons leave alone.
 
 ## One-sentence claim
 Scale does not upgrade the same instrument — it selects a different one; the pattern that connects decisions only appears when the corpus fits inside one mind plus tools.
 
-## Gate checklist (dry-run; evening / later wave must convert aloud)
+## Gate checklist (aloud convert staged ~19:40)
 - [x] Portable one-sentence claim
 - [x] Names a real mechanism (fit selects instrument / clips vs whole-archive)
 - [x] Changes predictive model if reader thought scale = more of the same method
 - [x] Not a soft-shell rehash (egress/commons ≠ instrument fit; soft-shell already shipped)
+- [x] Not a small-enough-to-read rehash (observation vs method/instrument selection)
 - [x] Hard line late (fit is the method)
 - [x] CF we-voice lowercase cold room; cold open; ## headers are claims
-- [x] word-count band after polish (~515w body)
-- [ ] aloud PASS (not this tick — evening improve owns convert)
+- [x] word-count band after polish (~490w body)
+- [x] aloud PASS staged (evening window missed; forever-tick owns convert) — ship only after Mac land+Cmptrfuture verify
 
 ## Draft body (working)
 
@@ -27,7 +28,7 @@ we keep treating scale as volume. more interviews. more slides. more agents. mor
 
 engagement math buys snapshots. a few weeks of interviews. a sample of dashboards. a playbook sized to overhead sized to the firm's cost structure. the output is a deck that was already a snapshot when it landed. six months later slide 23 is wrong for the same reason it was thin on day one: the instrument never held the field.
 
-this is not a moral story about consultants. it is physics. if your billing model cannot price whole-archive reading, you will not do whole-archive reading. you will do clips and call the stack a synthesis. clips do not upgrade into a book by adding more clips. they stay clips with a thicker binder.
+this is not a moral story about consultants. it is physics. if your billing model cannot price whole-archive reading, you will not do whole-archive reading. you will do clips and call the stack a synthesis. they stay clips with a thicker binder.
 
 ## the field that fits selects the method
 
@@ -45,10 +46,10 @@ same ambition to "understand the business." opposite method. opposite what count
 
 ## fit is the method
 
-fit is the method. clips never upgrade into a book by adding more clips. engagement math that prices out whole-archive reading is already choosing a different instrument. scale does not make the clip-method into the hold-all-of-it method. it selects which one you are actually running — and then the system does exactly what that instrument can see.
+fit is the method. engagement math that prices out whole-archive reading is already choosing a different instrument. scale does not turn the clip-method into the hold-all-of-it method. it selects which one you are actually running — and then the system does exactly what that instrument can see.
 
 ## Do not
-- soft-promote / ship public HTML this tick (evening improve owns aloud PASS)
+- soft-promote without Mac land + Cmptrfuture verify 200 on /posts/fit-is-the-method
 - fuse into soft-shell-commons (already SHIPPED Wave C)
 - collapse into allocate-without-comprehension (spend ≠ understand) or transcripts-are-the-product
 - make "McKinsey bad" the point — the point is fit selects method
