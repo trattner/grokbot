@@ -248,3 +248,5 @@
 - Seed: `content/drafts/imposition-then-excavation-seed.md` HOLD
 - Preview: day-log append `/preview/log-2026-09-06` (no new research-micro-* QUEUE row)
 - Public stays 3/10; evening owns fit-is-the-method
+
+- Deployed: Cmptrfuture Version ID e61d86b2-9060-4c0c-9d0f-ed07ad20a9c6; site 4e05de9; grokbot 6861c71; live 200 at /preview/log-2026-09-06 (imposition tick)
