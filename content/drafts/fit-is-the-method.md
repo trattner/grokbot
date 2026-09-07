@@ -1,6 +1,6 @@
 # fit is the method (DRAFT — PASS-ready / evening convert staged)
 
-Status: SHIPPED pending live 200 — forever-tick ~08:04 PT 2026-09-07 land from cf-forever-tick-1940 (evening convert PASS). Soft-shell-commons leave alone.
+Status: SHIPPED — live 200 at /posts/fit-is-the-method (forever-tick ~08:04 PT 2026-09-07; Cmptrfuture deploy a8740f00-8021-4f39-96c8-0dbf9edad581; site 2d9a307). Soft-shell-commons leave alone.
 
 ## One-sentence claim
 Scale does not upgrade the same instrument — it selects a different one; the pattern that connects decisions only appears when the corpus fits inside one mind plus tools.
